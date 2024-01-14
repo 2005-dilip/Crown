@@ -10,6 +10,16 @@ from watch_list import watch_brands
 import pandas as pd
 from return_watches import *
 app = FastAPI()
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can restrict this to specific domains
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 items = []
 order_id1=[]
 @app.post("/")
@@ -211,3 +221,8 @@ def handle_more_options(parameters):
         return response
     else:
         return {"fulfillmentText": f"No information found for watch item: {watch_item}"}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
+
