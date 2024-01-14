@@ -1,4 +1,5 @@
-pip==23.3.2
+buildCommand:
+  - command: pip install --upgrade pip
 fastapi==0.68.0
 pandas==1.3.3
 uvicorn==0.15.0
