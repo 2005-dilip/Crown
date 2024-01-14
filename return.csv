@@ -1,0 +1,10 @@
+order_id,reason,condition,replace/refund,email
+12345,Defective,Unused,Refund,example1@example.com
+67890,Wrong item,Opened,Replace,example2@example.com
+12345,Defective,Unused,Refund,test@example.com
+42,Defective,Used,Replace,dfvdv@gmail.com
+43,Defective,Used,Replace,sffs@gmail.com
+34,Defective,Used,Refund,dilipkumar.262911@gmail.com
+434,Defective,Used,Replace,dilipkumar.262911@gmail.com
+43,Defective,Used,Refund,dilipkumar.262911@gmail.com
+2005,Defective,Unused,Refund,dilipkumar.26291111@gmail.com

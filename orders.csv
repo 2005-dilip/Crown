@@ -1,0 +1,10000 @@
+order_id,status
+0,in transit
+1,in transit
+2,in transit
+3,delivered
+4,delivered
+5,delivered
+6,delivered
+7,delivered
+8,delivered
+9,in transit
+10,in transit
+11,delivered
+12,delivered
+13,in transit
+14,in transit
+15,delivered
+16,delivered
+17,delivered
+18,in transit
+19,delivered
+20,in transit
+21,in transit
+22,delivered
+23,delivered
+24,in transit
+25,delivered
+26,in transit
+27,in transit
+28,in transit
+29,in transit
+30,in transit
+31,delivered
+32,in transit
+33,in transit
+34,delivered
+35,delivered
+36,delivered
+37,delivered
+38,delivered
+39,in transit
+40,delivered
+41,in transit
+42,delivered
+43,in transit
+44,delivered
+45,in transit
+46,in transit
+47,in transit
+48,delivered
+49,in transit
+50,delivered
+51,in transit
+52,delivered
+53,in transit
+54,in transit
+55,in transit
+56,delivered
+57,in transit
+58,delivered
+59,delivered
+60,delivered
+61,delivered
+62,in transit
+63,in transit
+64,in transit
+65,in transit
+66,delivered
+67,in transit
+68,delivered
+69,in transit
+70,delivered
+71,delivered
+72,delivered
+73,in transit
+74,delivered
+75,delivered
+76,delivered
+77,delivered
+78,delivered
+79,in transit
+80,delivered
+81,delivered
+82,delivered
+83,delivered
+84,delivered
+85,in transit
+86,delivered
+87,in transit
+88,in transit
+89,in transit
+90,delivered
+91,in transit
+92,delivered
+93,in transit
+94,delivered
+95,in transit
+96,in transit
+97,in transit
+98,delivered
+99,in transit
+100,delivered
+101,delivered
+102,in transit
+103,in transit
+104,delivered
+105,delivered
+106,in transit
+107,in transit
+108,in transit
+109,delivered
+110,in transit
+111,delivered
+112,delivered
+113,delivered
+114,delivered
+115,in transit
+116,in transit
+117,delivered
+118,in transit
+119,delivered
+120,in transit
+121,in transit
+122,in transit
+123,in transit
+124,delivered
+125,in transit
+126,in transit
+127,delivered
+128,delivered
+129,in transit
+130,in transit
+131,delivered
+132,in transit
+133,delivered
+134,delivered
+135,delivered
+136,delivered
+137,delivered
+138,delivered
+139,delivered
+140,delivered
+141,delivered
+142,delivered
+143,in transit
+144,in transit
+145,delivered
+146,in transit
+147,delivered
+148,delivered
+149,delivered
+150,in transit
+151,delivered
+152,in transit
+153,in transit
+154,in transit
+155,in transit
+156,in transit
+157,delivered
+158,delivered
+159,in transit
+160,delivered
+161,delivered
+162,delivered
+163,delivered
+164,delivered
+165,in transit
+166,in transit
+167,delivered
+168,delivered
+169,delivered
+170,delivered
+171,delivered
+172,in transit
+173,delivered
+174,delivered
+175,delivered
+176,delivered
+177,in transit
+178,delivered
+179,in transit
+180,delivered
+181,delivered
+182,delivered
+183,in transit
+184,in transit
+185,in transit
+186,in transit
+187,in transit
+188,delivered
+189,in transit
+190,in transit
+191,in transit
+192,delivered
+193,delivered
+194,delivered
+195,delivered
+196,delivered
+197,in transit
+198,in transit
+199,in transit
+200,in transit
+201,delivered
+202,in transit
+203,in transit
+204,delivered
+205,delivered
+206,in transit
+207,delivered
+208,delivered
+209,in transit
+210,in transit
+211,in transit
+212,in transit
+213,delivered
+214,in transit
+215,in transit
+216,in transit
+217,delivered
+218,delivered
+219,delivered
+220,delivered
+221,in transit
+222,delivered
+223,delivered
+224,in transit
+225,in transit
+226,in transit
+227,in transit
+228,delivered
+229,delivered
+230,delivered
+231,in transit
+232,delivered
+233,in transit
+234,delivered
+235,delivered
+236,in transit
+237,in transit
+238,in transit
+239,delivered
+240,delivered
+241,in transit
+242,delivered
+243,in transit
+244,in transit
+245,in transit
+246,in transit
+247,delivered
+248,in transit
+249,delivered
+250,in transit
+251,in transit
+252,in transit
+253,delivered
+254,in transit
+255,in transit
+256,in transit
+257,in transit
+258,in transit
+259,delivered
+260,in transit
+261,delivered
+262,delivered
+263,in transit
+264,in transit
+265,in transit
+266,in transit
+267,in transit
+268,delivered
+269,in transit
+270,in transit
+271,in transit
+272,delivered
+273,in transit
+274,in transit
+275,in transit
+276,delivered
+277,in transit
+278,in transit
+279,delivered
+280,delivered
+281,in transit
+282,in transit
+283,delivered
+284,in transit
+285,delivered
+286,delivered
+287,delivered
+288,in transit
+289,delivered
+290,in transit
+291,delivered
+292,in transit
+293,in transit
+294,delivered
+295,in transit
+296,delivered
+297,delivered
+298,delivered
+299,in transit
+300,delivered
+301,in transit
+302,in transit
+303,in transit
+304,in transit
+305,delivered
+306,in transit
+307,in transit
+308,in transit
+309,delivered
+310,in transit
+311,in transit
+312,in transit
+313,delivered
+314,in transit
+315,in transit
+316,in transit
+317,delivered
+318,delivered
+319,in transit
+320,delivered
+321,delivered
+322,in transit
+323,in transit
+324,in transit
+325,in transit
+326,in transit
+327,in transit
+328,delivered
+329,in transit
+330,delivered
+331,in transit
+332,delivered
+333,in transit
+334,in transit
+335,delivered
+336,in transit
+337,in transit
+338,delivered
+339,delivered
+340,in transit
+341,in transit
+342,delivered
+343,delivered
+344,delivered
+345,delivered
+346,delivered
+347,delivered
+348,in transit
+349,in transit
+350,in transit
+351,in transit
+352,delivered
+353,delivered
+354,in transit
+355,delivered
+356,in transit
+357,in transit
+358,in transit
+359,in transit
+360,delivered
+361,in transit
+362,delivered
+363,delivered
+364,in transit
+365,delivered
+366,in transit
+367,delivered
+368,in transit
+369,delivered
+370,delivered
+371,delivered
+372,in transit
+373,delivered
+374,in transit
+375,delivered
+376,delivered
+377,in transit
+378,in transit
+379,delivered
+380,delivered
+381,delivered
+382,in transit
+383,in transit
+384,in transit
+385,in transit
+386,delivered
+387,in transit
+388,delivered
+389,in transit
+390,delivered
+391,in transit
+392,delivered
+393,delivered
+394,delivered
+395,delivered
+396,in transit
+397,in transit
+398,in transit
+399,delivered
+400,in transit
+401,delivered
+402,delivered
+403,in transit
+404,in transit
+405,in transit
+406,delivered
+407,in transit
+408,in transit
+409,delivered
+410,in transit
+411,delivered
+412,delivered
+413,delivered
+414,in transit
+415,in transit
+416,in transit
+417,delivered
+418,delivered
+419,in transit
+420,delivered
+421,in transit
+422,in transit
+423,in transit
+424,in transit
+425,in transit
+426,in transit
+427,in transit
+428,in transit
+429,delivered
+430,in transit
+431,in transit
+432,in transit
+433,in transit
+434,in transit
+435,in transit
+436,delivered
+437,in transit
+438,delivered
+439,in transit
+440,in transit
+441,delivered
+442,in transit
+443,in transit
+444,in transit
+445,in transit
+446,in transit
+447,delivered
+448,delivered
+449,delivered
+450,delivered
+451,delivered
+452,delivered
+453,delivered
+454,delivered
+455,delivered
+456,in transit
+457,delivered
+458,delivered
+459,in transit
+460,in transit
+461,in transit
+462,in transit
+463,delivered
+464,delivered
+465,delivered
+466,in transit
+467,delivered
+468,in transit
+469,in transit
+470,delivered
+471,in transit
+472,in transit
+473,delivered
+474,in transit
+475,delivered
+476,delivered
+477,in transit
+478,in transit
+479,in transit
+480,in transit
+481,delivered
+482,delivered
+483,delivered
+484,delivered
+485,delivered
+486,in transit
+487,delivered
+488,delivered
+489,in transit
+490,delivered
+491,in transit
+492,in transit
+493,delivered
+494,in transit
+495,in transit
+496,in transit
+497,in transit
+498,delivered
+499,delivered
+500,delivered
+501,delivered
+502,delivered
+503,in transit
+504,delivered
+505,in transit
+506,delivered
+507,in transit
+508,delivered
+509,delivered
+510,in transit
+511,in transit
+512,delivered
+513,delivered
+514,in transit
+515,delivered
+516,in transit
+517,delivered
+518,delivered
+519,delivered
+520,delivered
+521,in transit
+522,delivered
+523,delivered
+524,delivered
+525,in transit
+526,in transit
+527,in transit
+528,in transit
+529,delivered
+530,delivered
+531,in transit
+532,delivered
+533,in transit
+534,in transit
+535,in transit
+536,delivered
+537,delivered
+538,delivered
+539,delivered
+540,in transit
+541,in transit
+542,in transit
+543,in transit
+544,in transit
+545,in transit
+546,in transit
+547,in transit
+548,in transit
+549,in transit
+550,delivered
+551,in transit
+552,delivered
+553,in transit
+554,in transit
+555,delivered
+556,delivered
+557,in transit
+558,delivered
+559,delivered
+560,in transit
+561,delivered
+562,delivered
+563,in transit
+564,delivered
+565,delivered
+566,in transit
+567,in transit
+568,in transit
+569,delivered
+570,in transit
+571,in transit
+572,in transit
+573,delivered
+574,in transit
+575,in transit
+576,delivered
+577,in transit
+578,delivered
+579,in transit
+580,delivered
+581,in transit
+582,in transit
+583,delivered
+584,delivered
+585,delivered
+586,in transit
+587,in transit
+588,in transit
+589,in transit
+590,delivered
+591,in transit
+592,in transit
+593,in transit
+594,delivered
+595,in transit
+596,in transit
+597,delivered
+598,in transit
+599,in transit
+600,delivered
+601,delivered
+602,in transit
+603,delivered
+604,delivered
+605,delivered
+606,in transit
+607,delivered
+608,delivered
+609,in transit
+610,in transit
+611,in transit
+612,in transit
+613,in transit
+614,in transit
+615,delivered
+616,delivered
+617,delivered
+618,delivered
+619,delivered
+620,delivered
+621,delivered
+622,delivered
+623,in transit
+624,delivered
+625,delivered
+626,in transit
+627,delivered
+628,in transit
+629,delivered
+630,in transit
+631,delivered
+632,delivered
+633,delivered
+634,in transit
+635,delivered
+636,in transit
+637,in transit
+638,in transit
+639,in transit
+640,delivered
+641,delivered
+642,delivered
+643,delivered
+644,in transit
+645,in transit
+646,in transit
+647,in transit
+648,delivered
+649,delivered
+650,delivered
+651,delivered
+652,in transit
+653,in transit
+654,delivered
+655,in transit
+656,delivered
+657,delivered
+658,delivered
+659,delivered
+660,delivered
+661,in transit
+662,in transit
+663,in transit
+664,delivered
+665,in transit
+666,in transit
+667,in transit
+668,delivered
+669,in transit
+670,delivered
+671,in transit
+672,in transit
+673,in transit
+674,in transit
+675,in transit
+676,delivered
+677,in transit
+678,delivered
+679,in transit
+680,in transit
+681,delivered
+682,in transit
+683,in transit
+684,delivered
+685,delivered
+686,delivered
+687,delivered
+688,in transit
+689,in transit
+690,in transit
+691,in transit
+692,delivered
+693,in transit
+694,delivered
+695,delivered
+696,delivered
+697,delivered
+698,in transit
+699,in transit
+700,in transit
+701,in transit
+702,delivered
+703,in transit
+704,delivered
+705,in transit
+706,delivered
+707,delivered
+708,in transit
+709,delivered
+710,delivered
+711,in transit
+712,in transit
+713,delivered
+714,in transit
+715,in transit
+716,delivered
+717,in transit
+718,in transit
+719,in transit
+720,in transit
+721,in transit
+722,delivered
+723,in transit
+724,delivered
+725,delivered
+726,in transit
+727,in transit
+728,in transit
+729,delivered
+730,delivered
+731,in transit
+732,in transit
+733,in transit
+734,delivered
+735,delivered
+736,in transit
+737,delivered
+738,in transit
+739,in transit
+740,delivered
+741,delivered
+742,in transit
+743,in transit
+744,in transit
+745,delivered
+746,delivered
+747,delivered
+748,delivered
+749,in transit
+750,in transit
+751,delivered
+752,delivered
+753,in transit
+754,in transit
+755,in transit
+756,in transit
+757,delivered
+758,delivered
+759,delivered
+760,in transit
+761,delivered
+762,delivered
+763,in transit
+764,in transit
+765,delivered
+766,in transit
+767,delivered
+768,delivered
+769,in transit
+770,delivered
+771,delivered
+772,delivered
+773,in transit
+774,in transit
+775,delivered
+776,delivered
+777,delivered
+778,in transit
+779,in transit
+780,in transit
+781,in transit
+782,in transit
+783,in transit
+784,in transit
+785,delivered
+786,in transit
+787,delivered
+788,in transit
+789,in transit
+790,in transit
+791,in transit
+792,in transit
+793,delivered
+794,in transit
+795,in transit
+796,in transit
+797,in transit
+798,delivered
+799,in transit
+800,in transit
+801,in transit
+802,delivered
+803,delivered
+804,in transit
+805,delivered
+806,delivered
+807,in transit
+808,delivered
+809,in transit
+810,delivered
+811,in transit
+812,in transit
+813,in transit
+814,in transit
+815,in transit
+816,in transit
+817,delivered
+818,in transit
+819,in transit
+820,delivered
+821,delivered
+822,in transit
+823,delivered
+824,delivered
+825,delivered
+826,in transit
+827,delivered
+828,delivered
+829,in transit
+830,in transit
+831,delivered
+832,in transit
+833,in transit
+834,in transit
+835,delivered
+836,in transit
+837,in transit
+838,in transit
+839,delivered
+840,delivered
+841,in transit
+842,in transit
+843,delivered
+844,delivered
+845,delivered
+846,delivered
+847,in transit
+848,delivered
+849,delivered
+850,in transit
+851,delivered
+852,in transit
+853,in transit
+854,delivered
+855,delivered
+856,in transit
+857,delivered
+858,in transit
+859,in transit
+860,delivered
+861,delivered
+862,delivered
+863,delivered
+864,in transit
+865,delivered
+866,in transit
+867,delivered
+868,in transit
+869,delivered
+870,delivered
+871,delivered
+872,in transit
+873,in transit
+874,delivered
+875,in transit
+876,in transit
+877,in transit
+878,delivered
+879,delivered
+880,in transit
+881,delivered
+882,in transit
+883,in transit
+884,in transit
+885,in transit
+886,delivered
+887,in transit
+888,in transit
+889,delivered
+890,in transit
+891,in transit
+892,in transit
+893,in transit
+894,in transit
+895,in transit
+896,delivered
+897,in transit
+898,delivered
+899,delivered
+900,in transit
+901,in transit
+902,in transit
+903,in transit
+904,delivered
+905,delivered
+906,in transit
+907,delivered
+908,in transit
+909,in transit
+910,in transit
+911,delivered
+912,delivered
+913,in transit
+914,in transit
+915,delivered
+916,in transit
+917,in transit
+918,delivered
+919,in transit
+920,in transit
+921,in transit
+922,in transit
+923,in transit
+924,delivered
+925,delivered
+926,in transit
+927,in transit
+928,delivered
+929,delivered
+930,in transit
+931,in transit
+932,in transit
+933,delivered
+934,delivered
+935,in transit
+936,in transit
+937,delivered
+938,delivered
+939,in transit
+940,delivered
+941,in transit
+942,in transit
+943,in transit
+944,delivered
+945,in transit
+946,in transit
+947,in transit
+948,in transit
+949,in transit
+950,in transit
+951,delivered
+952,delivered
+953,in transit
+954,delivered
+955,in transit
+956,in transit
+957,delivered
+958,delivered
+959,in transit
+960,in transit
+961,delivered
+962,delivered
+963,in transit
+964,in transit
+965,in transit
+966,delivered
+967,in transit
+968,delivered
+969,delivered
+970,delivered
+971,delivered
+972,delivered
+973,delivered
+974,delivered
+975,delivered
+976,delivered
+977,in transit
+978,delivered
+979,in transit
+980,delivered
+981,delivered
+982,delivered
+983,in transit
+984,delivered
+985,delivered
+986,delivered
+987,delivered
+988,in transit
+989,in transit
+990,in transit
+991,delivered
+992,delivered
+993,delivered
+994,in transit
+995,delivered
+996,delivered
+997,in transit
+998,in transit
+999,delivered
+1000,delivered
+1001,in transit
+1002,in transit
+1003,delivered
+1004,in transit
+1005,in transit
+1006,delivered
+1007,delivered
+1008,delivered
+1009,delivered
+1010,in transit
+1011,delivered
+1012,in transit
+1013,in transit
+1014,delivered
+1015,in transit
+1016,delivered
+1017,in transit
+1018,delivered
+1019,in transit
+1020,in transit
+1021,in transit
+1022,in transit
+1023,delivered
+1024,delivered
+1025,in transit
+1026,in transit
+1027,in transit
+1028,in transit
+1029,in transit
+1030,delivered
+1031,delivered
+1032,delivered
+1033,delivered
+1034,in transit
+1035,in transit
+1036,in transit
+1037,in transit
+1038,in transit
+1039,delivered
+1040,delivered
+1041,delivered
+1042,delivered
+1043,delivered
+1044,in transit
+1045,delivered
+1046,in transit
+1047,in transit
+1048,delivered
+1049,delivered
+1050,in transit
+1051,delivered
+1052,delivered
+1053,in transit
+1054,delivered
+1055,delivered
+1056,in transit
+1057,delivered
+1058,delivered
+1059,delivered
+1060,in transit
+1061,in transit
+1062,delivered
+1063,delivered
+1064,in transit
+1065,delivered
+1066,in transit
+1067,in transit
+1068,delivered
+1069,in transit
+1070,in transit
+1071,delivered
+1072,delivered
+1073,delivered
+1074,in transit
+1075,in transit
+1076,in transit
+1077,in transit
+1078,in transit
+1079,in transit
+1080,delivered
+1081,in transit
+1082,in transit
+1083,in transit
+1084,in transit
+1085,in transit
+1086,in transit
+1087,in transit
+1088,in transit
+1089,in transit
+1090,delivered
+1091,delivered
+1092,in transit
+1093,delivered
+1094,in transit
+1095,delivered
+1096,in transit
+1097,in transit
+1098,in transit
+1099,delivered
+1100,delivered
+1101,delivered
+1102,delivered
+1103,in transit
+1104,delivered
+1105,delivered
+1106,delivered
+1107,in transit
+1108,in transit
+1109,in transit
+1110,delivered
+1111,delivered
+1112,delivered
+1113,in transit
+1114,delivered
+1115,in transit
+1116,delivered
+1117,delivered
+1118,in transit
+1119,in transit
+1120,in transit
+1121,delivered
+1122,in transit
+1123,in transit
+1124,delivered
+1125,delivered
+1126,in transit
+1127,in transit
+1128,delivered
+1129,delivered
+1130,delivered
+1131,delivered
+1132,in transit
+1133,in transit
+1134,delivered
+1135,in transit
+1136,delivered
+1137,in transit
+1138,in transit
+1139,in transit
+1140,in transit
+1141,in transit
+1142,in transit
+1143,delivered
+1144,delivered
+1145,delivered
+1146,delivered
+1147,delivered
+1148,in transit
+1149,delivered
+1150,delivered
+1151,delivered
+1152,in transit
+1153,delivered
+1154,in transit
+1155,delivered
+1156,delivered
+1157,in transit
+1158,in transit
+1159,in transit
+1160,delivered
+1161,delivered
+1162,delivered
+1163,delivered
+1164,in transit
+1165,in transit
+1166,delivered
+1167,in transit
+1168,delivered
+1169,in transit
+1170,in transit
+1171,delivered
+1172,delivered
+1173,in transit
+1174,delivered
+1175,in transit
+1176,in transit
+1177,delivered
+1178,delivered
+1179,in transit
+1180,delivered
+1181,delivered
+1182,in transit
+1183,delivered
+1184,delivered
+1185,delivered
+1186,delivered
+1187,in transit
+1188,in transit
+1189,delivered
+1190,in transit
+1191,delivered
+1192,in transit
+1193,in transit
+1194,delivered
+1195,delivered
+1196,delivered
+1197,in transit
+1198,delivered
+1199,delivered
+1200,in transit
+1201,delivered
+1202,in transit
+1203,in transit
+1204,in transit
+1205,in transit
+1206,delivered
+1207,in transit
+1208,delivered
+1209,in transit
+1210,delivered
+1211,delivered
+1212,in transit
+1213,in transit
+1214,in transit
+1215,in transit
+1216,in transit
+1217,delivered
+1218,in transit
+1219,delivered
+1220,delivered
+1221,in transit
+1222,delivered
+1223,in transit
+1224,delivered
+1225,in transit
+1226,in transit
+1227,in transit
+1228,in transit
+1229,in transit
+1230,in transit
+1231,delivered
+1232,delivered
+1233,delivered
+1234,in transit
+1235,delivered
+1236,in transit
+1237,in transit
+1238,in transit
+1239,in transit
+1240,delivered
+1241,delivered
+1242,in transit
+1243,delivered
+1244,delivered
+1245,delivered
+1246,in transit
+1247,delivered
+1248,delivered
+1249,delivered
+1250,in transit
+1251,in transit
+1252,in transit
+1253,delivered
+1254,delivered
+1255,in transit
+1256,delivered
+1257,delivered
+1258,in transit
+1259,delivered
+1260,delivered
+1261,delivered
+1262,in transit
+1263,delivered
+1264,in transit
+1265,delivered
+1266,in transit
+1267,delivered
+1268,in transit
+1269,in transit
+1270,in transit
+1271,delivered
+1272,delivered
+1273,in transit
+1274,delivered
+1275,in transit
+1276,in transit
+1277,delivered
+1278,delivered
+1279,delivered
+1280,in transit
+1281,in transit
+1282,in transit
+1283,delivered
+1284,delivered
+1285,in transit
+1286,in transit
+1287,in transit
+1288,delivered
+1289,in transit
+1290,in transit
+1291,delivered
+1292,delivered
+1293,in transit
+1294,in transit
+1295,delivered
+1296,delivered
+1297,delivered
+1298,in transit
+1299,delivered
+1300,delivered
+1301,delivered
+1302,delivered
+1303,in transit
+1304,delivered
+1305,in transit
+1306,in transit
+1307,in transit
+1308,delivered
+1309,delivered
+1310,delivered
+1311,delivered
+1312,in transit
+1313,delivered
+1314,in transit
+1315,delivered
+1316,in transit
+1317,delivered
+1318,delivered
+1319,in transit
+1320,delivered
+1321,delivered
+1322,in transit
+1323,delivered
+1324,in transit
+1325,in transit
+1326,delivered
+1327,in transit
+1328,in transit
+1329,in transit
+1330,delivered
+1331,delivered
+1332,delivered
+1333,delivered
+1334,delivered
+1335,in transit
+1336,delivered
+1337,delivered
+1338,delivered
+1339,delivered
+1340,in transit
+1341,delivered
+1342,delivered
+1343,in transit
+1344,in transit
+1345,delivered
+1346,in transit
+1347,delivered
+1348,in transit
+1349,delivered
+1350,in transit
+1351,delivered
+1352,delivered
+1353,in transit
+1354,delivered
+1355,delivered
+1356,in transit
+1357,delivered
+1358,delivered
+1359,delivered
+1360,in transit
+1361,delivered
+1362,delivered
+1363,delivered
+1364,delivered
+1365,delivered
+1366,delivered
+1367,delivered
+1368,in transit
+1369,in transit
+1370,in transit
+1371,in transit
+1372,delivered
+1373,delivered
+1374,delivered
+1375,delivered
+1376,in transit
+1377,in transit
+1378,in transit
+1379,delivered
+1380,delivered
+1381,in transit
+1382,in transit
+1383,in transit
+1384,delivered
+1385,delivered
+1386,in transit
+1387,delivered
+1388,in transit
+1389,delivered
+1390,in transit
+1391,in transit
+1392,in transit
+1393,delivered
+1394,in transit
+1395,in transit
+1396,delivered
+1397,in transit
+1398,delivered
+1399,in transit
+1400,in transit
+1401,delivered
+1402,in transit
+1403,delivered
+1404,delivered
+1405,delivered
+1406,delivered
+1407,in transit
+1408,in transit
+1409,in transit
+1410,in transit
+1411,delivered
+1412,delivered
+1413,in transit
+1414,in transit
+1415,in transit
+1416,in transit
+1417,delivered
+1418,delivered
+1419,delivered
+1420,delivered
+1421,in transit
+1422,delivered
+1423,in transit
+1424,delivered
+1425,in transit
+1426,delivered
+1427,delivered
+1428,in transit
+1429,delivered
+1430,in transit
+1431,in transit
+1432,in transit
+1433,in transit
+1434,in transit
+1435,delivered
+1436,delivered
+1437,in transit
+1438,in transit
+1439,delivered
+1440,in transit
+1441,in transit
+1442,delivered
+1443,delivered
+1444,in transit
+1445,in transit
+1446,delivered
+1447,delivered
+1448,delivered
+1449,in transit
+1450,delivered
+1451,delivered
+1452,in transit
+1453,in transit
+1454,delivered
+1455,in transit
+1456,delivered
+1457,delivered
+1458,in transit
+1459,in transit
+1460,in transit
+1461,in transit
+1462,delivered
+1463,in transit
+1464,in transit
+1465,in transit
+1466,in transit
+1467,in transit
+1468,in transit
+1469,in transit
+1470,delivered
+1471,in transit
+1472,in transit
+1473,in transit
+1474,delivered
+1475,delivered
+1476,delivered
+1477,delivered
+1478,in transit
+1479,in transit
+1480,delivered
+1481,in transit
+1482,in transit
+1483,delivered
+1484,in transit
+1485,in transit
+1486,in transit
+1487,delivered
+1488,in transit
+1489,in transit
+1490,delivered
+1491,delivered
+1492,delivered
+1493,delivered
+1494,delivered
+1495,in transit
+1496,delivered
+1497,in transit
+1498,delivered
+1499,delivered
+1500,in transit
+1501,in transit
+1502,in transit
+1503,delivered
+1504,delivered
+1505,in transit
+1506,in transit
+1507,delivered
+1508,delivered
+1509,delivered
+1510,delivered
+1511,in transit
+1512,in transit
+1513,in transit
+1514,delivered
+1515,in transit
+1516,delivered
+1517,delivered
+1518,delivered
+1519,in transit
+1520,in transit
+1521,in transit
+1522,in transit
+1523,delivered
+1524,delivered
+1525,in transit
+1526,delivered
+1527,delivered
+1528,in transit
+1529,in transit
+1530,in transit
+1531,in transit
+1532,in transit
+1533,delivered
+1534,in transit
+1535,delivered
+1536,delivered
+1537,delivered
+1538,delivered
+1539,in transit
+1540,delivered
+1541,in transit
+1542,delivered
+1543,in transit
+1544,delivered
+1545,delivered
+1546,delivered
+1547,delivered
+1548,in transit
+1549,in transit
+1550,delivered
+1551,delivered
+1552,delivered
+1553,delivered
+1554,in transit
+1555,delivered
+1556,in transit
+1557,in transit
+1558,in transit
+1559,in transit
+1560,in transit
+1561,delivered
+1562,in transit
+1563,delivered
+1564,delivered
+1565,in transit
+1566,delivered
+1567,in transit
+1568,in transit
+1569,in transit
+1570,delivered
+1571,delivered
+1572,in transit
+1573,delivered
+1574,in transit
+1575,in transit
+1576,delivered
+1577,delivered
+1578,delivered
+1579,delivered
+1580,delivered
+1581,delivered
+1582,in transit
+1583,in transit
+1584,delivered
+1585,delivered
+1586,delivered
+1587,delivered
+1588,delivered
+1589,in transit
+1590,delivered
+1591,delivered
+1592,in transit
+1593,in transit
+1594,in transit
+1595,in transit
+1596,delivered
+1597,in transit
+1598,in transit
+1599,delivered
+1600,in transit
+1601,delivered
+1602,in transit
+1603,in transit
+1604,in transit
+1605,in transit
+1606,delivered
+1607,in transit
+1608,in transit
+1609,in transit
+1610,delivered
+1611,in transit
+1612,in transit
+1613,in transit
+1614,delivered
+1615,in transit
+1616,delivered
+1617,in transit
+1618,delivered
+1619,in transit
+1620,in transit
+1621,delivered
+1622,in transit
+1623,delivered
+1624,delivered
+1625,delivered
+1626,in transit
+1627,delivered
+1628,delivered
+1629,in transit
+1630,delivered
+1631,in transit
+1632,delivered
+1633,delivered
+1634,delivered
+1635,delivered
+1636,delivered
+1637,in transit
+1638,delivered
+1639,delivered
+1640,in transit
+1641,in transit
+1642,in transit
+1643,in transit
+1644,in transit
+1645,delivered
+1646,delivered
+1647,in transit
+1648,delivered
+1649,delivered
+1650,in transit
+1651,delivered
+1652,delivered
+1653,delivered
+1654,in transit
+1655,in transit
+1656,delivered
+1657,delivered
+1658,delivered
+1659,in transit
+1660,delivered
+1661,delivered
+1662,in transit
+1663,delivered
+1664,in transit
+1665,delivered
+1666,in transit
+1667,delivered
+1668,delivered
+1669,in transit
+1670,delivered
+1671,delivered
+1672,delivered
+1673,delivered
+1674,in transit
+1675,in transit
+1676,in transit
+1677,in transit
+1678,delivered
+1679,delivered
+1680,delivered
+1681,delivered
+1682,delivered
+1683,delivered
+1684,in transit
+1685,in transit
+1686,in transit
+1687,delivered
+1688,delivered
+1689,delivered
+1690,delivered
+1691,delivered
+1692,in transit
+1693,in transit
+1694,in transit
+1695,delivered
+1696,delivered
+1697,in transit
+1698,in transit
+1699,delivered
+1700,delivered
+1701,delivered
+1702,in transit
+1703,in transit
+1704,delivered
+1705,in transit
+1706,delivered
+1707,delivered
+1708,in transit
+1709,in transit
+1710,in transit
+1711,delivered
+1712,in transit
+1713,in transit
+1714,delivered
+1715,in transit
+1716,delivered
+1717,in transit
+1718,delivered
+1719,in transit
+1720,delivered
+1721,delivered
+1722,delivered
+1723,in transit
+1724,in transit
+1725,in transit
+1726,in transit
+1727,in transit
+1728,in transit
+1729,in transit
+1730,in transit
+1731,delivered
+1732,delivered
+1733,in transit
+1734,in transit
+1735,delivered
+1736,in transit
+1737,in transit
+1738,delivered
+1739,in transit
+1740,delivered
+1741,in transit
+1742,in transit
+1743,in transit
+1744,in transit
+1745,delivered
+1746,in transit
+1747,in transit
+1748,delivered
+1749,in transit
+1750,in transit
+1751,delivered
+1752,in transit
+1753,delivered
+1754,delivered
+1755,in transit
+1756,delivered
+1757,in transit
+1758,delivered
+1759,delivered
+1760,in transit
+1761,delivered
+1762,in transit
+1763,delivered
+1764,delivered
+1765,in transit
+1766,in transit
+1767,in transit
+1768,delivered
+1769,delivered
+1770,in transit
+1771,delivered
+1772,in transit
+1773,delivered
+1774,delivered
+1775,in transit
+1776,delivered
+1777,delivered
+1778,delivered
+1779,delivered
+1780,in transit
+1781,delivered
+1782,in transit
+1783,in transit
+1784,delivered
+1785,delivered
+1786,in transit
+1787,in transit
+1788,in transit
+1789,in transit
+1790,delivered
+1791,delivered
+1792,in transit
+1793,delivered
+1794,in transit
+1795,delivered
+1796,delivered
+1797,in transit
+1798,delivered
+1799,delivered
+1800,in transit
+1801,delivered
+1802,in transit
+1803,in transit
+1804,delivered
+1805,in transit
+1806,delivered
+1807,delivered
+1808,in transit
+1809,delivered
+1810,delivered
+1811,delivered
+1812,delivered
+1813,delivered
+1814,in transit
+1815,delivered
+1816,in transit
+1817,delivered
+1818,delivered
+1819,delivered
+1820,delivered
+1821,in transit
+1822,in transit
+1823,delivered
+1824,in transit
+1825,in transit
+1826,delivered
+1827,delivered
+1828,delivered
+1829,in transit
+1830,delivered
+1831,in transit
+1832,delivered
+1833,delivered
+1834,in transit
+1835,in transit
+1836,in transit
+1837,delivered
+1838,in transit
+1839,in transit
+1840,in transit
+1841,in transit
+1842,delivered
+1843,delivered
+1844,delivered
+1845,in transit
+1846,in transit
+1847,in transit
+1848,in transit
+1849,in transit
+1850,in transit
+1851,in transit
+1852,in transit
+1853,delivered
+1854,delivered
+1855,delivered
+1856,in transit
+1857,delivered
+1858,in transit
+1859,in transit
+1860,delivered
+1861,delivered
+1862,delivered
+1863,delivered
+1864,in transit
+1865,delivered
+1866,in transit
+1867,delivered
+1868,delivered
+1869,in transit
+1870,in transit
+1871,in transit
+1872,delivered
+1873,in transit
+1874,in transit
+1875,delivered
+1876,in transit
+1877,delivered
+1878,in transit
+1879,delivered
+1880,delivered
+1881,delivered
+1882,in transit
+1883,in transit
+1884,in transit
+1885,delivered
+1886,delivered
+1887,delivered
+1888,in transit
+1889,in transit
+1890,in transit
+1891,in transit
+1892,in transit
+1893,delivered
+1894,delivered
+1895,in transit
+1896,delivered
+1897,delivered
+1898,delivered
+1899,delivered
+1900,in transit
+1901,in transit
+1902,in transit
+1903,in transit
+1904,delivered
+1905,delivered
+1906,in transit
+1907,delivered
+1908,in transit
+1909,in transit
+1910,in transit
+1911,delivered
+1912,in transit
+1913,in transit
+1914,in transit
+1915,delivered
+1916,delivered
+1917,in transit
+1918,in transit
+1919,delivered
+1920,delivered
+1921,in transit
+1922,in transit
+1923,in transit
+1924,in transit
+1925,in transit
+1926,delivered
+1927,delivered
+1928,delivered
+1929,delivered
+1930,delivered
+1931,in transit
+1932,delivered
+1933,delivered
+1934,in transit
+1935,delivered
+1936,delivered
+1937,delivered
+1938,in transit
+1939,in transit
+1940,delivered
+1941,delivered
+1942,delivered
+1943,in transit
+1944,in transit
+1945,delivered
+1946,delivered
+1947,in transit
+1948,delivered
+1949,in transit
+1950,in transit
+1951,delivered
+1952,in transit
+1953,delivered
+1954,delivered
+1955,delivered
+1956,delivered
+1957,delivered
+1958,delivered
+1959,in transit
+1960,delivered
+1961,in transit
+1962,delivered
+1963,delivered
+1964,delivered
+1965,delivered
+1966,delivered
+1967,in transit
+1968,delivered
+1969,delivered
+1970,in transit
+1971,in transit
+1972,in transit
+1973,in transit
+1974,delivered
+1975,delivered
+1976,delivered
+1977,in transit
+1978,delivered
+1979,in transit
+1980,delivered
+1981,delivered
+1982,in transit
+1983,delivered
+1984,delivered
+1985,in transit
+1986,delivered
+1987,delivered
+1988,delivered
+1989,delivered
+1990,delivered
+1991,in transit
+1992,in transit
+1993,delivered
+1994,delivered
+1995,delivered
+1996,delivered
+1997,in transit
+1998,in transit
+1999,in transit
+2000,delivered
+2001,in transit
+2002,in transit
+2003,delivered
+2004,delivered
+2005,in transit
+2006,in transit
+2007,in transit
+2008,delivered
+2009,in transit
+2010,in transit
+2011,in transit
+2012,delivered
+2013,delivered
+2014,delivered
+2015,in transit
+2016,delivered
+2017,in transit
+2018,delivered
+2019,in transit
+2020,delivered
+2021,delivered
+2022,delivered
+2023,delivered
+2024,delivered
+2025,delivered
+2026,delivered
+2027,in transit
+2028,delivered
+2029,delivered
+2030,delivered
+2031,delivered
+2032,in transit
+2033,delivered
+2034,delivered
+2035,in transit
+2036,in transit
+2037,delivered
+2038,delivered
+2039,delivered
+2040,in transit
+2041,in transit
+2042,in transit
+2043,in transit
+2044,in transit
+2045,delivered
+2046,in transit
+2047,in transit
+2048,in transit
+2049,in transit
+2050,in transit
+2051,delivered
+2052,in transit
+2053,delivered
+2054,in transit
+2055,in transit
+2056,in transit
+2057,in transit
+2058,in transit
+2059,in transit
+2060,in transit
+2061,in transit
+2062,in transit
+2063,in transit
+2064,delivered
+2065,delivered
+2066,in transit
+2067,in transit
+2068,in transit
+2069,in transit
+2070,delivered
+2071,delivered
+2072,delivered
+2073,in transit
+2074,in transit
+2075,in transit
+2076,delivered
+2077,in transit
+2078,delivered
+2079,in transit
+2080,delivered
+2081,delivered
+2082,in transit
+2083,delivered
+2084,in transit
+2085,in transit
+2086,in transit
+2087,delivered
+2088,delivered
+2089,delivered
+2090,in transit
+2091,in transit
+2092,delivered
+2093,in transit
+2094,in transit
+2095,in transit
+2096,delivered
+2097,delivered
+2098,in transit
+2099,delivered
+2100,delivered
+2101,in transit
+2102,in transit
+2103,in transit
+2104,delivered
+2105,in transit
+2106,delivered
+2107,delivered
+2108,delivered
+2109,in transit
+2110,delivered
+2111,delivered
+2112,delivered
+2113,in transit
+2114,in transit
+2115,in transit
+2116,delivered
+2117,delivered
+2118,in transit
+2119,delivered
+2120,delivered
+2121,delivered
+2122,delivered
+2123,delivered
+2124,delivered
+2125,delivered
+2126,delivered
+2127,in transit
+2128,delivered
+2129,delivered
+2130,in transit
+2131,delivered
+2132,in transit
+2133,in transit
+2134,delivered
+2135,delivered
+2136,in transit
+2137,delivered
+2138,in transit
+2139,in transit
+2140,in transit
+2141,in transit
+2142,delivered
+2143,delivered
+2144,delivered
+2145,delivered
+2146,delivered
+2147,delivered
+2148,in transit
+2149,delivered
+2150,in transit
+2151,delivered
+2152,in transit
+2153,in transit
+2154,delivered
+2155,delivered
+2156,in transit
+2157,in transit
+2158,in transit
+2159,delivered
+2160,delivered
+2161,in transit
+2162,delivered
+2163,delivered
+2164,in transit
+2165,in transit
+2166,in transit
+2167,delivered
+2168,delivered
+2169,delivered
+2170,delivered
+2171,in transit
+2172,delivered
+2173,delivered
+2174,delivered
+2175,delivered
+2176,delivered
+2177,in transit
+2178,in transit
+2179,in transit
+2180,delivered
+2181,in transit
+2182,delivered
+2183,delivered
+2184,delivered
+2185,delivered
+2186,delivered
+2187,in transit
+2188,in transit
+2189,in transit
+2190,delivered
+2191,in transit
+2192,delivered
+2193,in transit
+2194,in transit
+2195,in transit
+2196,in transit
+2197,in transit
+2198,delivered
+2199,in transit
+2200,in transit
+2201,delivered
+2202,in transit
+2203,in transit
+2204,in transit
+2205,delivered
+2206,in transit
+2207,delivered
+2208,delivered
+2209,in transit
+2210,delivered
+2211,in transit
+2212,delivered
+2213,delivered
+2214,delivered
+2215,delivered
+2216,delivered
+2217,delivered
+2218,delivered
+2219,in transit
+2220,in transit
+2221,delivered
+2222,delivered
+2223,in transit
+2224,in transit
+2225,in transit
+2226,in transit
+2227,delivered
+2228,in transit
+2229,delivered
+2230,in transit
+2231,delivered
+2232,delivered
+2233,delivered
+2234,delivered
+2235,delivered
+2236,delivered
+2237,in transit
+2238,in transit
+2239,delivered
+2240,in transit
+2241,in transit
+2242,in transit
+2243,in transit
+2244,in transit
+2245,in transit
+2246,in transit
+2247,in transit
+2248,in transit
+2249,delivered
+2250,in transit
+2251,in transit
+2252,in transit
+2253,in transit
+2254,delivered
+2255,delivered
+2256,in transit
+2257,in transit
+2258,in transit
+2259,delivered
+2260,in transit
+2261,delivered
+2262,in transit
+2263,delivered
+2264,delivered
+2265,in transit
+2266,delivered
+2267,delivered
+2268,delivered
+2269,delivered
+2270,in transit
+2271,delivered
+2272,delivered
+2273,in transit
+2274,in transit
+2275,in transit
+2276,in transit
+2277,in transit
+2278,delivered
+2279,in transit
+2280,delivered
+2281,in transit
+2282,delivered
+2283,in transit
+2284,delivered
+2285,in transit
+2286,delivered
+2287,delivered
+2288,delivered
+2289,delivered
+2290,in transit
+2291,delivered
+2292,in transit
+2293,delivered
+2294,delivered
+2295,in transit
+2296,delivered
+2297,delivered
+2298,in transit
+2299,in transit
+2300,in transit
+2301,in transit
+2302,delivered
+2303,delivered
+2304,in transit
+2305,delivered
+2306,in transit
+2307,in transit
+2308,in transit
+2309,in transit
+2310,in transit
+2311,in transit
+2312,delivered
+2313,in transit
+2314,in transit
+2315,delivered
+2316,delivered
+2317,in transit
+2318,in transit
+2319,in transit
+2320,in transit
+2321,delivered
+2322,delivered
+2323,delivered
+2324,in transit
+2325,delivered
+2326,delivered
+2327,in transit
+2328,in transit
+2329,delivered
+2330,delivered
+2331,delivered
+2332,in transit
+2333,delivered
+2334,delivered
+2335,delivered
+2336,in transit
+2337,delivered
+2338,in transit
+2339,delivered
+2340,delivered
+2341,delivered
+2342,in transit
+2343,delivered
+2344,in transit
+2345,in transit
+2346,delivered
+2347,delivered
+2348,delivered
+2349,in transit
+2350,in transit
+2351,delivered
+2352,delivered
+2353,in transit
+2354,delivered
+2355,in transit
+2356,delivered
+2357,in transit
+2358,delivered
+2359,delivered
+2360,delivered
+2361,in transit
+2362,in transit
+2363,delivered
+2364,delivered
+2365,delivered
+2366,delivered
+2367,in transit
+2368,in transit
+2369,delivered
+2370,delivered
+2371,delivered
+2372,delivered
+2373,delivered
+2374,delivered
+2375,delivered
+2376,in transit
+2377,in transit
+2378,in transit
+2379,delivered
+2380,delivered
+2381,delivered
+2382,in transit
+2383,delivered
+2384,delivered
+2385,delivered
+2386,in transit
+2387,delivered
+2388,in transit
+2389,in transit
+2390,delivered
+2391,in transit
+2392,in transit
+2393,in transit
+2394,delivered
+2395,in transit
+2396,delivered
+2397,delivered
+2398,delivered
+2399,in transit
+2400,in transit
+2401,delivered
+2402,delivered
+2403,delivered
+2404,delivered
+2405,in transit
+2406,delivered
+2407,in transit
+2408,in transit
+2409,in transit
+2410,in transit
+2411,in transit
+2412,delivered
+2413,in transit
+2414,in transit
+2415,in transit
+2416,in transit
+2417,in transit
+2418,in transit
+2419,in transit
+2420,in transit
+2421,delivered
+2422,delivered
+2423,delivered
+2424,delivered
+2425,delivered
+2426,delivered
+2427,delivered
+2428,delivered
+2429,delivered
+2430,delivered
+2431,delivered
+2432,delivered
+2433,in transit
+2434,delivered
+2435,delivered
+2436,in transit
+2437,delivered
+2438,in transit
+2439,delivered
+2440,in transit
+2441,delivered
+2442,in transit
+2443,delivered
+2444,in transit
+2445,in transit
+2446,in transit
+2447,in transit
+2448,in transit
+2449,delivered
+2450,in transit
+2451,in transit
+2452,delivered
+2453,delivered
+2454,delivered
+2455,delivered
+2456,in transit
+2457,delivered
+2458,delivered
+2459,in transit
+2460,delivered
+2461,in transit
+2462,delivered
+2463,in transit
+2464,delivered
+2465,delivered
+2466,delivered
+2467,delivered
+2468,delivered
+2469,in transit
+2470,delivered
+2471,in transit
+2472,delivered
+2473,delivered
+2474,in transit
+2475,in transit
+2476,in transit
+2477,delivered
+2478,delivered
+2479,in transit
+2480,delivered
+2481,in transit
+2482,in transit
+2483,delivered
+2484,delivered
+2485,delivered
+2486,in transit
+2487,in transit
+2488,in transit
+2489,delivered
+2490,in transit
+2491,delivered
+2492,in transit
+2493,in transit
+2494,in transit
+2495,in transit
+2496,in transit
+2497,delivered
+2498,in transit
+2499,in transit
+2500,delivered
+2501,in transit
+2502,delivered
+2503,in transit
+2504,in transit
+2505,delivered
+2506,delivered
+2507,delivered
+2508,delivered
+2509,delivered
+2510,in transit
+2511,in transit
+2512,delivered
+2513,delivered
+2514,in transit
+2515,delivered
+2516,delivered
+2517,in transit
+2518,in transit
+2519,delivered
+2520,delivered
+2521,in transit
+2522,delivered
+2523,delivered
+2524,delivered
+2525,in transit
+2526,delivered
+2527,delivered
+2528,in transit
+2529,delivered
+2530,delivered
+2531,in transit
+2532,in transit
+2533,delivered
+2534,in transit
+2535,in transit
+2536,delivered
+2537,in transit
+2538,delivered
+2539,in transit
+2540,delivered
+2541,in transit
+2542,in transit
+2543,in transit
+2544,in transit
+2545,in transit
+2546,in transit
+2547,delivered
+2548,in transit
+2549,delivered
+2550,in transit
+2551,delivered
+2552,delivered
+2553,in transit
+2554,in transit
+2555,delivered
+2556,delivered
+2557,in transit
+2558,in transit
+2559,in transit
+2560,delivered
+2561,in transit
+2562,in transit
+2563,in transit
+2564,delivered
+2565,in transit
+2566,delivered
+2567,in transit
+2568,in transit
+2569,in transit
+2570,delivered
+2571,delivered
+2572,delivered
+2573,in transit
+2574,delivered
+2575,in transit
+2576,delivered
+2577,in transit
+2578,in transit
+2579,delivered
+2580,in transit
+2581,in transit
+2582,in transit
+2583,in transit
+2584,delivered
+2585,in transit
+2586,delivered
+2587,in transit
+2588,in transit
+2589,delivered
+2590,in transit
+2591,in transit
+2592,in transit
+2593,in transit
+2594,in transit
+2595,in transit
+2596,delivered
+2597,delivered
+2598,delivered
+2599,delivered
+2600,delivered
+2601,in transit
+2602,delivered
+2603,delivered
+2604,in transit
+2605,in transit
+2606,in transit
+2607,in transit
+2608,in transit
+2609,in transit
+2610,delivered
+2611,in transit
+2612,in transit
+2613,delivered
+2614,delivered
+2615,delivered
+2616,in transit
+2617,in transit
+2618,in transit
+2619,delivered
+2620,in transit
+2621,delivered
+2622,delivered
+2623,delivered
+2624,delivered
+2625,delivered
+2626,in transit
+2627,delivered
+2628,in transit
+2629,delivered
+2630,in transit
+2631,in transit
+2632,in transit
+2633,in transit
+2634,delivered
+2635,in transit
+2636,delivered
+2637,delivered
+2638,delivered
+2639,in transit
+2640,delivered
+2641,delivered
+2642,in transit
+2643,delivered
+2644,delivered
+2645,in transit
+2646,in transit
+2647,delivered
+2648,delivered
+2649,in transit
+2650,in transit
+2651,in transit
+2652,delivered
+2653,in transit
+2654,in transit
+2655,in transit
+2656,in transit
+2657,delivered
+2658,delivered
+2659,in transit
+2660,delivered
+2661,in transit
+2662,in transit
+2663,delivered
+2664,in transit
+2665,delivered
+2666,delivered
+2667,delivered
+2668,in transit
+2669,delivered
+2670,delivered
+2671,delivered
+2672,delivered
+2673,in transit
+2674,delivered
+2675,delivered
+2676,in transit
+2677,delivered
+2678,delivered
+2679,in transit
+2680,delivered
+2681,delivered
+2682,in transit
+2683,delivered
+2684,delivered
+2685,in transit
+2686,in transit
+2687,in transit
+2688,in transit
+2689,in transit
+2690,in transit
+2691,delivered
+2692,in transit
+2693,in transit
+2694,in transit
+2695,in transit
+2696,in transit
+2697,in transit
+2698,in transit
+2699,in transit
+2700,delivered
+2701,in transit
+2702,in transit
+2703,in transit
+2704,delivered
+2705,delivered
+2706,delivered
+2707,delivered
+2708,in transit
+2709,in transit
+2710,delivered
+2711,in transit
+2712,in transit
+2713,delivered
+2714,delivered
+2715,in transit
+2716,delivered
+2717,in transit
+2718,delivered
+2719,delivered
+2720,delivered
+2721,delivered
+2722,delivered
+2723,in transit
+2724,delivered
+2725,in transit
+2726,delivered
+2727,in transit
+2728,delivered
+2729,in transit
+2730,in transit
+2731,delivered
+2732,delivered
+2733,delivered
+2734,in transit
+2735,in transit
+2736,delivered
+2737,in transit
+2738,in transit
+2739,in transit
+2740,in transit
+2741,delivered
+2742,delivered
+2743,delivered
+2744,delivered
+2745,delivered
+2746,delivered
+2747,delivered
+2748,delivered
+2749,delivered
+2750,delivered
+2751,delivered
+2752,in transit
+2753,in transit
+2754,in transit
+2755,in transit
+2756,delivered
+2757,delivered
+2758,in transit
+2759,delivered
+2760,delivered
+2761,delivered
+2762,delivered
+2763,in transit
+2764,delivered
+2765,in transit
+2766,delivered
+2767,in transit
+2768,delivered
+2769,in transit
+2770,delivered
+2771,delivered
+2772,in transit
+2773,in transit
+2774,delivered
+2775,delivered
+2776,in transit
+2777,delivered
+2778,delivered
+2779,delivered
+2780,in transit
+2781,delivered
+2782,in transit
+2783,delivered
+2784,in transit
+2785,delivered
+2786,delivered
+2787,in transit
+2788,in transit
+2789,delivered
+2790,in transit
+2791,in transit
+2792,delivered
+2793,delivered
+2794,in transit
+2795,in transit
+2796,in transit
+2797,in transit
+2798,in transit
+2799,in transit
+2800,delivered
+2801,in transit
+2802,delivered
+2803,delivered
+2804,in transit
+2805,delivered
+2806,in transit
+2807,delivered
+2808,delivered
+2809,in transit
+2810,delivered
+2811,in transit
+2812,delivered
+2813,in transit
+2814,in transit
+2815,delivered
+2816,delivered
+2817,delivered
+2818,in transit
+2819,delivered
+2820,in transit
+2821,in transit
+2822,in transit
+2823,in transit
+2824,in transit
+2825,in transit
+2826,in transit
+2827,delivered
+2828,delivered
+2829,in transit
+2830,in transit
+2831,in transit
+2832,in transit
+2833,in transit
+2834,in transit
+2835,in transit
+2836,delivered
+2837,delivered
+2838,delivered
+2839,delivered
+2840,in transit
+2841,in transit
+2842,delivered
+2843,in transit
+2844,delivered
+2845,in transit
+2846,in transit
+2847,delivered
+2848,delivered
+2849,delivered
+2850,in transit
+2851,in transit
+2852,in transit
+2853,delivered
+2854,delivered
+2855,in transit
+2856,in transit
+2857,delivered
+2858,in transit
+2859,delivered
+2860,delivered
+2861,delivered
+2862,delivered
+2863,in transit
+2864,in transit
+2865,in transit
+2866,delivered
+2867,in transit
+2868,delivered
+2869,in transit
+2870,in transit
+2871,delivered
+2872,in transit
+2873,in transit
+2874,in transit
+2875,delivered
+2876,delivered
+2877,delivered
+2878,delivered
+2879,delivered
+2880,delivered
+2881,delivered
+2882,in transit
+2883,in transit
+2884,delivered
+2885,delivered
+2886,delivered
+2887,delivered
+2888,in transit
+2889,in transit
+2890,delivered
+2891,delivered
+2892,in transit
+2893,delivered
+2894,in transit
+2895,in transit
+2896,delivered
+2897,delivered
+2898,in transit
+2899,delivered
+2900,delivered
+2901,delivered
+2902,in transit
+2903,delivered
+2904,delivered
+2905,in transit
+2906,in transit
+2907,in transit
+2908,delivered
+2909,delivered
+2910,delivered
+2911,delivered
+2912,delivered
+2913,in transit
+2914,delivered
+2915,delivered
+2916,in transit
+2917,in transit
+2918,delivered
+2919,in transit
+2920,in transit
+2921,delivered
+2922,in transit
+2923,in transit
+2924,delivered
+2925,in transit
+2926,in transit
+2927,delivered
+2928,in transit
+2929,delivered
+2930,in transit
+2931,delivered
+2932,delivered
+2933,in transit
+2934,in transit
+2935,in transit
+2936,delivered
+2937,in transit
+2938,in transit
+2939,delivered
+2940,delivered
+2941,in transit
+2942,in transit
+2943,in transit
+2944,delivered
+2945,delivered
+2946,in transit
+2947,in transit
+2948,delivered
+2949,in transit
+2950,in transit
+2951,delivered
+2952,delivered
+2953,delivered
+2954,in transit
+2955,in transit
+2956,in transit
+2957,delivered
+2958,delivered
+2959,delivered
+2960,in transit
+2961,in transit
+2962,in transit
+2963,in transit
+2964,delivered
+2965,in transit
+2966,delivered
+2967,in transit
+2968,delivered
+2969,delivered
+2970,delivered
+2971,in transit
+2972,delivered
+2973,in transit
+2974,delivered
+2975,in transit
+2976,delivered
+2977,delivered
+2978,delivered
+2979,delivered
+2980,delivered
+2981,in transit
+2982,in transit
+2983,delivered
+2984,delivered
+2985,in transit
+2986,in transit
+2987,in transit
+2988,delivered
+2989,delivered
+2990,delivered
+2991,in transit
+2992,in transit
+2993,delivered
+2994,delivered
+2995,in transit
+2996,delivered
+2997,in transit
+2998,delivered
+2999,delivered
+3000,in transit
+3001,delivered
+3002,in transit
+3003,in transit
+3004,in transit
+3005,delivered
+3006,in transit
+3007,delivered
+3008,in transit
+3009,in transit
+3010,delivered
+3011,in transit
+3012,in transit
+3013,delivered
+3014,delivered
+3015,in transit
+3016,delivered
+3017,in transit
+3018,delivered
+3019,delivered
+3020,in transit
+3021,in transit
+3022,delivered
+3023,in transit
+3024,delivered
+3025,in transit
+3026,in transit
+3027,delivered
+3028,delivered
+3029,in transit
+3030,delivered
+3031,in transit
+3032,delivered
+3033,delivered
+3034,in transit
+3035,in transit
+3036,in transit
+3037,in transit
+3038,in transit
+3039,in transit
+3040,in transit
+3041,in transit
+3042,in transit
+3043,delivered
+3044,delivered
+3045,in transit
+3046,delivered
+3047,delivered
+3048,delivered
+3049,delivered
+3050,delivered
+3051,in transit
+3052,in transit
+3053,delivered
+3054,delivered
+3055,delivered
+3056,in transit
+3057,delivered
+3058,delivered
+3059,in transit
+3060,in transit
+3061,in transit
+3062,delivered
+3063,delivered
+3064,delivered
+3065,in transit
+3066,in transit
+3067,in transit
+3068,delivered
+3069,delivered
+3070,in transit
+3071,delivered
+3072,in transit
+3073,in transit
+3074,delivered
+3075,in transit
+3076,in transit
+3077,delivered
+3078,delivered
+3079,in transit
+3080,in transit
+3081,in transit
+3082,in transit
+3083,in transit
+3084,in transit
+3085,delivered
+3086,in transit
+3087,delivered
+3088,delivered
+3089,delivered
+3090,delivered
+3091,in transit
+3092,delivered
+3093,delivered
+3094,in transit
+3095,delivered
+3096,delivered
+3097,in transit
+3098,in transit
+3099,in transit
+3100,in transit
+3101,delivered
+3102,in transit
+3103,in transit
+3104,in transit
+3105,in transit
+3106,delivered
+3107,delivered
+3108,in transit
+3109,in transit
+3110,delivered
+3111,in transit
+3112,delivered
+3113,in transit
+3114,in transit
+3115,in transit
+3116,in transit
+3117,delivered
+3118,in transit
+3119,in transit
+3120,delivered
+3121,delivered
+3122,in transit
+3123,delivered
+3124,in transit
+3125,in transit
+3126,in transit
+3127,in transit
+3128,delivered
+3129,delivered
+3130,in transit
+3131,in transit
+3132,delivered
+3133,delivered
+3134,in transit
+3135,in transit
+3136,in transit
+3137,delivered
+3138,in transit
+3139,delivered
+3140,in transit
+3141,in transit
+3142,in transit
+3143,delivered
+3144,in transit
+3145,in transit
+3146,in transit
+3147,delivered
+3148,in transit
+3149,delivered
+3150,in transit
+3151,delivered
+3152,in transit
+3153,delivered
+3154,delivered
+3155,in transit
+3156,delivered
+3157,in transit
+3158,delivered
+3159,in transit
+3160,in transit
+3161,delivered
+3162,delivered
+3163,delivered
+3164,in transit
+3165,in transit
+3166,delivered
+3167,delivered
+3168,delivered
+3169,delivered
+3170,delivered
+3171,delivered
+3172,delivered
+3173,delivered
+3174,in transit
+3175,delivered
+3176,delivered
+3177,in transit
+3178,delivered
+3179,in transit
+3180,in transit
+3181,delivered
+3182,in transit
+3183,in transit
+3184,in transit
+3185,in transit
+3186,in transit
+3187,delivered
+3188,delivered
+3189,delivered
+3190,in transit
+3191,delivered
+3192,delivered
+3193,delivered
+3194,in transit
+3195,in transit
+3196,delivered
+3197,delivered
+3198,delivered
+3199,in transit
+3200,in transit
+3201,delivered
+3202,in transit
+3203,delivered
+3204,delivered
+3205,delivered
+3206,in transit
+3207,delivered
+3208,delivered
+3209,in transit
+3210,delivered
+3211,delivered
+3212,in transit
+3213,in transit
+3214,delivered
+3215,delivered
+3216,in transit
+3217,delivered
+3218,delivered
+3219,in transit
+3220,delivered
+3221,in transit
+3222,in transit
+3223,delivered
+3224,delivered
+3225,delivered
+3226,in transit
+3227,delivered
+3228,in transit
+3229,delivered
+3230,in transit
+3231,delivered
+3232,in transit
+3233,in transit
+3234,in transit
+3235,delivered
+3236,in transit
+3237,in transit
+3238,in transit
+3239,in transit
+3240,delivered
+3241,delivered
+3242,delivered
+3243,in transit
+3244,delivered
+3245,delivered
+3246,in transit
+3247,in transit
+3248,delivered
+3249,delivered
+3250,in transit
+3251,delivered
+3252,delivered
+3253,in transit
+3254,delivered
+3255,delivered
+3256,in transit
+3257,in transit
+3258,delivered
+3259,in transit
+3260,in transit
+3261,in transit
+3262,in transit
+3263,delivered
+3264,in transit
+3265,in transit
+3266,in transit
+3267,delivered
+3268,delivered
+3269,in transit
+3270,delivered
+3271,delivered
+3272,in transit
+3273,delivered
+3274,in transit
+3275,delivered
+3276,delivered
+3277,delivered
+3278,delivered
+3279,in transit
+3280,delivered
+3281,delivered
+3282,in transit
+3283,in transit
+3284,delivered
+3285,delivered
+3286,in transit
+3287,delivered
+3288,in transit
+3289,delivered
+3290,in transit
+3291,in transit
+3292,in transit
+3293,delivered
+3294,delivered
+3295,in transit
+3296,in transit
+3297,delivered
+3298,delivered
+3299,delivered
+3300,delivered
+3301,delivered
+3302,delivered
+3303,delivered
+3304,delivered
+3305,delivered
+3306,in transit
+3307,in transit
+3308,delivered
+3309,delivered
+3310,delivered
+3311,in transit
+3312,delivered
+3313,delivered
+3314,delivered
+3315,delivered
+3316,in transit
+3317,delivered
+3318,in transit
+3319,in transit
+3320,in transit
+3321,in transit
+3322,in transit
+3323,in transit
+3324,delivered
+3325,delivered
+3326,in transit
+3327,delivered
+3328,delivered
+3329,in transit
+3330,delivered
+3331,delivered
+3332,in transit
+3333,in transit
+3334,delivered
+3335,in transit
+3336,delivered
+3337,in transit
+3338,delivered
+3339,in transit
+3340,delivered
+3341,delivered
+3342,in transit
+3343,in transit
+3344,in transit
+3345,in transit
+3346,in transit
+3347,in transit
+3348,in transit
+3349,in transit
+3350,in transit
+3351,delivered
+3352,in transit
+3353,delivered
+3354,delivered
+3355,in transit
+3356,delivered
+3357,in transit
+3358,in transit
+3359,delivered
+3360,delivered
+3361,delivered
+3362,delivered
+3363,in transit
+3364,in transit
+3365,in transit
+3366,delivered
+3367,delivered
+3368,delivered
+3369,delivered
+3370,delivered
+3371,in transit
+3372,in transit
+3373,in transit
+3374,delivered
+3375,delivered
+3376,delivered
+3377,in transit
+3378,delivered
+3379,delivered
+3380,in transit
+3381,in transit
+3382,in transit
+3383,in transit
+3384,in transit
+3385,delivered
+3386,delivered
+3387,in transit
+3388,delivered
+3389,in transit
+3390,in transit
+3391,delivered
+3392,in transit
+3393,in transit
+3394,delivered
+3395,delivered
+3396,in transit
+3397,in transit
+3398,delivered
+3399,delivered
+3400,delivered
+3401,delivered
+3402,delivered
+3403,delivered
+3404,delivered
+3405,in transit
+3406,in transit
+3407,delivered
+3408,in transit
+3409,delivered
+3410,delivered
+3411,delivered
+3412,in transit
+3413,delivered
+3414,in transit
+3415,in transit
+3416,delivered
+3417,in transit
+3418,in transit
+3419,delivered
+3420,delivered
+3421,delivered
+3422,in transit
+3423,in transit
+3424,delivered
+3425,delivered
+3426,delivered
+3427,delivered
+3428,delivered
+3429,in transit
+3430,delivered
+3431,in transit
+3432,in transit
+3433,in transit
+3434,in transit
+3435,in transit
+3436,delivered
+3437,in transit
+3438,in transit
+3439,delivered
+3440,delivered
+3441,delivered
+3442,in transit
+3443,in transit
+3444,delivered
+3445,in transit
+3446,delivered
+3447,in transit
+3448,in transit
+3449,delivered
+3450,delivered
+3451,in transit
+3452,in transit
+3453,in transit
+3454,in transit
+3455,delivered
+3456,delivered
+3457,delivered
+3458,delivered
+3459,in transit
+3460,delivered
+3461,delivered
+3462,in transit
+3463,delivered
+3464,delivered
+3465,delivered
+3466,delivered
+3467,in transit
+3468,in transit
+3469,in transit
+3470,delivered
+3471,delivered
+3472,delivered
+3473,delivered
+3474,in transit
+3475,delivered
+3476,delivered
+3477,delivered
+3478,delivered
+3479,delivered
+3480,delivered
+3481,delivered
+3482,in transit
+3483,in transit
+3484,delivered
+3485,in transit
+3486,delivered
+3487,in transit
+3488,delivered
+3489,in transit
+3490,in transit
+3491,in transit
+3492,delivered
+3493,in transit
+3494,in transit
+3495,delivered
+3496,delivered
+3497,delivered
+3498,in transit
+3499,delivered
+3500,delivered
+3501,delivered
+3502,in transit
+3503,delivered
+3504,delivered
+3505,in transit
+3506,in transit
+3507,in transit
+3508,in transit
+3509,in transit
+3510,in transit
+3511,delivered
+3512,delivered
+3513,in transit
+3514,in transit
+3515,delivered
+3516,delivered
+3517,delivered
+3518,in transit
+3519,in transit
+3520,delivered
+3521,delivered
+3522,in transit
+3523,in transit
+3524,in transit
+3525,delivered
+3526,in transit
+3527,in transit
+3528,in transit
+3529,in transit
+3530,delivered
+3531,in transit
+3532,delivered
+3533,delivered
+3534,delivered
+3535,in transit
+3536,delivered
+3537,delivered
+3538,in transit
+3539,in transit
+3540,delivered
+3541,in transit
+3542,delivered
+3543,in transit
+3544,in transit
+3545,in transit
+3546,delivered
+3547,delivered
+3548,in transit
+3549,in transit
+3550,in transit
+3551,delivered
+3552,in transit
+3553,in transit
+3554,in transit
+3555,delivered
+3556,delivered
+3557,in transit
+3558,in transit
+3559,delivered
+3560,delivered
+3561,delivered
+3562,delivered
+3563,delivered
+3564,delivered
+3565,in transit
+3566,delivered
+3567,in transit
+3568,in transit
+3569,delivered
+3570,delivered
+3571,delivered
+3572,delivered
+3573,delivered
+3574,in transit
+3575,delivered
+3576,in transit
+3577,delivered
+3578,in transit
+3579,in transit
+3580,delivered
+3581,in transit
+3582,delivered
+3583,delivered
+3584,delivered
+3585,in transit
+3586,delivered
+3587,delivered
+3588,in transit
+3589,in transit
+3590,delivered
+3591,in transit
+3592,delivered
+3593,in transit
+3594,in transit
+3595,in transit
+3596,delivered
+3597,in transit
+3598,in transit
+3599,delivered
+3600,delivered
+3601,delivered
+3602,delivered
+3603,in transit
+3604,in transit
+3605,delivered
+3606,delivered
+3607,delivered
+3608,delivered
+3609,delivered
+3610,in transit
+3611,in transit
+3612,in transit
+3613,delivered
+3614,delivered
+3615,delivered
+3616,in transit
+3617,delivered
+3618,delivered
+3619,delivered
+3620,delivered
+3621,in transit
+3622,delivered
+3623,in transit
+3624,delivered
+3625,in transit
+3626,delivered
+3627,in transit
+3628,delivered
+3629,delivered
+3630,delivered
+3631,in transit
+3632,delivered
+3633,in transit
+3634,delivered
+3635,in transit
+3636,in transit
+3637,delivered
+3638,in transit
+3639,in transit
+3640,delivered
+3641,delivered
+3642,in transit
+3643,in transit
+3644,delivered
+3645,delivered
+3646,delivered
+3647,in transit
+3648,delivered
+3649,in transit
+3650,in transit
+3651,in transit
+3652,delivered
+3653,in transit
+3654,delivered
+3655,in transit
+3656,delivered
+3657,in transit
+3658,delivered
+3659,in transit
+3660,delivered
+3661,delivered
+3662,delivered
+3663,delivered
+3664,delivered
+3665,delivered
+3666,delivered
+3667,delivered
+3668,delivered
+3669,in transit
+3670,delivered
+3671,in transit
+3672,in transit
+3673,in transit
+3674,delivered
+3675,delivered
+3676,delivered
+3677,delivered
+3678,in transit
+3679,in transit
+3680,in transit
+3681,delivered
+3682,delivered
+3683,delivered
+3684,in transit
+3685,in transit
+3686,in transit
+3687,in transit
+3688,delivered
+3689,delivered
+3690,delivered
+3691,in transit
+3692,delivered
+3693,delivered
+3694,delivered
+3695,in transit
+3696,in transit
+3697,in transit
+3698,in transit
+3699,in transit
+3700,in transit
+3701,in transit
+3702,in transit
+3703,in transit
+3704,delivered
+3705,delivered
+3706,in transit
+3707,in transit
+3708,delivered
+3709,in transit
+3710,in transit
+3711,delivered
+3712,in transit
+3713,in transit
+3714,in transit
+3715,in transit
+3716,in transit
+3717,in transit
+3718,in transit
+3719,delivered
+3720,delivered
+3721,delivered
+3722,delivered
+3723,delivered
+3724,delivered
+3725,delivered
+3726,delivered
+3727,in transit
+3728,in transit
+3729,delivered
+3730,in transit
+3731,delivered
+3732,delivered
+3733,delivered
+3734,delivered
+3735,in transit
+3736,in transit
+3737,in transit
+3738,in transit
+3739,delivered
+3740,in transit
+3741,in transit
+3742,delivered
+3743,in transit
+3744,delivered
+3745,in transit
+3746,delivered
+3747,in transit
+3748,delivered
+3749,delivered
+3750,delivered
+3751,delivered
+3752,delivered
+3753,in transit
+3754,delivered
+3755,in transit
+3756,in transit
+3757,in transit
+3758,in transit
+3759,in transit
+3760,delivered
+3761,in transit
+3762,delivered
+3763,in transit
+3764,delivered
+3765,in transit
+3766,delivered
+3767,delivered
+3768,delivered
+3769,delivered
+3770,delivered
+3771,in transit
+3772,delivered
+3773,in transit
+3774,delivered
+3775,delivered
+3776,in transit
+3777,delivered
+3778,in transit
+3779,delivered
+3780,in transit
+3781,in transit
+3782,in transit
+3783,in transit
+3784,delivered
+3785,delivered
+3786,delivered
+3787,delivered
+3788,in transit
+3789,in transit
+3790,in transit
+3791,delivered
+3792,delivered
+3793,in transit
+3794,in transit
+3795,in transit
+3796,in transit
+3797,in transit
+3798,in transit
+3799,in transit
+3800,in transit
+3801,in transit
+3802,in transit
+3803,in transit
+3804,in transit
+3805,in transit
+3806,delivered
+3807,delivered
+3808,in transit
+3809,delivered
+3810,in transit
+3811,delivered
+3812,delivered
+3813,in transit
+3814,in transit
+3815,delivered
+3816,in transit
+3817,in transit
+3818,delivered
+3819,in transit
+3820,in transit
+3821,in transit
+3822,in transit
+3823,in transit
+3824,delivered
+3825,delivered
+3826,delivered
+3827,in transit
+3828,in transit
+3829,delivered
+3830,delivered
+3831,delivered
+3832,in transit
+3833,delivered
+3834,in transit
+3835,delivered
+3836,in transit
+3837,in transit
+3838,delivered
+3839,in transit
+3840,in transit
+3841,in transit
+3842,in transit
+3843,in transit
+3844,delivered
+3845,in transit
+3846,in transit
+3847,in transit
+3848,in transit
+3849,delivered
+3850,in transit
+3851,delivered
+3852,in transit
+3853,in transit
+3854,delivered
+3855,delivered
+3856,in transit
+3857,delivered
+3858,delivered
+3859,in transit
+3860,in transit
+3861,in transit
+3862,in transit
+3863,in transit
+3864,in transit
+3865,in transit
+3866,in transit
+3867,in transit
+3868,delivered
+3869,delivered
+3870,in transit
+3871,delivered
+3872,in transit
+3873,in transit
+3874,delivered
+3875,in transit
+3876,in transit
+3877,delivered
+3878,delivered
+3879,delivered
+3880,delivered
+3881,in transit
+3882,in transit
+3883,delivered
+3884,delivered
+3885,in transit
+3886,delivered
+3887,in transit
+3888,in transit
+3889,in transit
+3890,in transit
+3891,in transit
+3892,in transit
+3893,in transit
+3894,delivered
+3895,in transit
+3896,in transit
+3897,delivered
+3898,in transit
+3899,delivered
+3900,delivered
+3901,delivered
+3902,delivered
+3903,in transit
+3904,in transit
+3905,in transit
+3906,delivered
+3907,in transit
+3908,delivered
+3909,in transit
+3910,in transit
+3911,in transit
+3912,delivered
+3913,in transit
+3914,delivered
+3915,in transit
+3916,delivered
+3917,in transit
+3918,in transit
+3919,in transit
+3920,delivered
+3921,in transit
+3922,in transit
+3923,delivered
+3924,delivered
+3925,in transit
+3926,in transit
+3927,in transit
+3928,in transit
+3929,delivered
+3930,in transit
+3931,delivered
+3932,delivered
+3933,in transit
+3934,in transit
+3935,in transit
+3936,in transit
+3937,delivered
+3938,in transit
+3939,delivered
+3940,in transit
+3941,delivered
+3942,delivered
+3943,delivered
+3944,in transit
+3945,in transit
+3946,delivered
+3947,in transit
+3948,delivered
+3949,delivered
+3950,in transit
+3951,delivered
+3952,in transit
+3953,in transit
+3954,delivered
+3955,delivered
+3956,delivered
+3957,in transit
+3958,delivered
+3959,delivered
+3960,in transit
+3961,delivered
+3962,in transit
+3963,in transit
+3964,delivered
+3965,delivered
+3966,in transit
+3967,delivered
+3968,in transit
+3969,in transit
+3970,delivered
+3971,delivered
+3972,delivered
+3973,in transit
+3974,delivered
+3975,in transit
+3976,in transit
+3977,in transit
+3978,delivered
+3979,in transit
+3980,delivered
+3981,delivered
+3982,delivered
+3983,delivered
+3984,delivered
+3985,delivered
+3986,in transit
+3987,in transit
+3988,in transit
+3989,in transit
+3990,delivered
+3991,in transit
+3992,in transit
+3993,in transit
+3994,in transit
+3995,delivered
+3996,in transit
+3997,in transit
+3998,delivered
+3999,delivered
+4000,delivered
+4001,delivered
+4002,in transit
+4003,in transit
+4004,in transit
+4005,in transit
+4006,delivered
+4007,in transit
+4008,in transit
+4009,in transit
+4010,in transit
+4011,in transit
+4012,delivered
+4013,delivered
+4014,in transit
+4015,delivered
+4016,delivered
+4017,in transit
+4018,delivered
+4019,delivered
+4020,in transit
+4021,delivered
+4022,delivered
+4023,delivered
+4024,in transit
+4025,delivered
+4026,in transit
+4027,in transit
+4028,delivered
+4029,in transit
+4030,delivered
+4031,in transit
+4032,delivered
+4033,in transit
+4034,delivered
+4035,in transit
+4036,in transit
+4037,in transit
+4038,delivered
+4039,in transit
+4040,in transit
+4041,in transit
+4042,in transit
+4043,delivered
+4044,in transit
+4045,in transit
+4046,in transit
+4047,delivered
+4048,in transit
+4049,in transit
+4050,delivered
+4051,in transit
+4052,in transit
+4053,delivered
+4054,in transit
+4055,in transit
+4056,delivered
+4057,delivered
+4058,delivered
+4059,in transit
+4060,delivered
+4061,in transit
+4062,in transit
+4063,in transit
+4064,in transit
+4065,in transit
+4066,delivered
+4067,in transit
+4068,delivered
+4069,delivered
+4070,delivered
+4071,delivered
+4072,delivered
+4073,in transit
+4074,in transit
+4075,delivered
+4076,delivered
+4077,in transit
+4078,in transit
+4079,delivered
+4080,delivered
+4081,delivered
+4082,in transit
+4083,delivered
+4084,delivered
+4085,delivered
+4086,in transit
+4087,in transit
+4088,in transit
+4089,delivered
+4090,delivered
+4091,delivered
+4092,in transit
+4093,in transit
+4094,in transit
+4095,delivered
+4096,in transit
+4097,in transit
+4098,delivered
+4099,delivered
+4100,delivered
+4101,delivered
+4102,delivered
+4103,delivered
+4104,in transit
+4105,in transit
+4106,delivered
+4107,delivered
+4108,in transit
+4109,in transit
+4110,in transit
+4111,in transit
+4112,in transit
+4113,delivered
+4114,in transit
+4115,delivered
+4116,in transit
+4117,delivered
+4118,delivered
+4119,delivered
+4120,delivered
+4121,delivered
+4122,in transit
+4123,in transit
+4124,in transit
+4125,delivered
+4126,delivered
+4127,in transit
+4128,in transit
+4129,in transit
+4130,delivered
+4131,in transit
+4132,delivered
+4133,delivered
+4134,in transit
+4135,delivered
+4136,delivered
+4137,delivered
+4138,delivered
+4139,delivered
+4140,delivered
+4141,in transit
+4142,in transit
+4143,delivered
+4144,delivered
+4145,delivered
+4146,delivered
+4147,in transit
+4148,in transit
+4149,in transit
+4150,in transit
+4151,in transit
+4152,delivered
+4153,in transit
+4154,in transit
+4155,delivered
+4156,in transit
+4157,in transit
+4158,in transit
+4159,delivered
+4160,delivered
+4161,delivered
+4162,delivered
+4163,in transit
+4164,delivered
+4165,in transit
+4166,delivered
+4167,in transit
+4168,delivered
+4169,in transit
+4170,in transit
+4171,delivered
+4172,in transit
+4173,delivered
+4174,delivered
+4175,in transit
+4176,in transit
+4177,delivered
+4178,in transit
+4179,delivered
+4180,in transit
+4181,delivered
+4182,delivered
+4183,delivered
+4184,in transit
+4185,delivered
+4186,delivered
+4187,delivered
+4188,in transit
+4189,delivered
+4190,in transit
+4191,delivered
+4192,delivered
+4193,in transit
+4194,in transit
+4195,in transit
+4196,delivered
+4197,delivered
+4198,in transit
+4199,in transit
+4200,in transit
+4201,in transit
+4202,delivered
+4203,delivered
+4204,in transit
+4205,in transit
+4206,in transit
+4207,in transit
+4208,delivered
+4209,delivered
+4210,delivered
+4211,delivered
+4212,in transit
+4213,delivered
+4214,in transit
+4215,in transit
+4216,delivered
+4217,in transit
+4218,in transit
+4219,in transit
+4220,delivered
+4221,delivered
+4222,delivered
+4223,in transit
+4224,in transit
+4225,in transit
+4226,in transit
+4227,delivered
+4228,delivered
+4229,in transit
+4230,delivered
+4231,in transit
+4232,in transit
+4233,in transit
+4234,in transit
+4235,delivered
+4236,in transit
+4237,in transit
+4238,in transit
+4239,delivered
+4240,in transit
+4241,in transit
+4242,in transit
+4243,delivered
+4244,in transit
+4245,delivered
+4246,delivered
+4247,in transit
+4248,in transit
+4249,delivered
+4250,delivered
+4251,in transit
+4252,in transit
+4253,delivered
+4254,in transit
+4255,in transit
+4256,in transit
+4257,delivered
+4258,delivered
+4259,in transit
+4260,delivered
+4261,delivered
+4262,delivered
+4263,delivered
+4264,in transit
+4265,delivered
+4266,delivered
+4267,in transit
+4268,delivered
+4269,delivered
+4270,delivered
+4271,in transit
+4272,in transit
+4273,in transit
+4274,in transit
+4275,in transit
+4276,in transit
+4277,delivered
+4278,in transit
+4279,in transit
+4280,delivered
+4281,delivered
+4282,in transit
+4283,in transit
+4284,delivered
+4285,delivered
+4286,in transit
+4287,in transit
+4288,in transit
+4289,delivered
+4290,delivered
+4291,delivered
+4292,delivered
+4293,in transit
+4294,delivered
+4295,delivered
+4296,delivered
+4297,in transit
+4298,in transit
+4299,in transit
+4300,in transit
+4301,delivered
+4302,delivered
+4303,delivered
+4304,delivered
+4305,delivered
+4306,delivered
+4307,delivered
+4308,in transit
+4309,delivered
+4310,delivered
+4311,delivered
+4312,in transit
+4313,in transit
+4314,in transit
+4315,in transit
+4316,delivered
+4317,delivered
+4318,in transit
+4319,in transit
+4320,in transit
+4321,delivered
+4322,in transit
+4323,in transit
+4324,delivered
+4325,in transit
+4326,delivered
+4327,in transit
+4328,in transit
+4329,in transit
+4330,delivered
+4331,in transit
+4332,in transit
+4333,delivered
+4334,delivered
+4335,in transit
+4336,delivered
+4337,in transit
+4338,delivered
+4339,delivered
+4340,delivered
+4341,delivered
+4342,delivered
+4343,in transit
+4344,delivered
+4345,in transit
+4346,in transit
+4347,delivered
+4348,in transit
+4349,delivered
+4350,delivered
+4351,in transit
+4352,in transit
+4353,delivered
+4354,in transit
+4355,in transit
+4356,delivered
+4357,delivered
+4358,in transit
+4359,delivered
+4360,delivered
+4361,delivered
+4362,in transit
+4363,in transit
+4364,in transit
+4365,in transit
+4366,in transit
+4367,in transit
+4368,in transit
+4369,in transit
+4370,delivered
+4371,delivered
+4372,in transit
+4373,delivered
+4374,delivered
+4375,delivered
+4376,delivered
+4377,delivered
+4378,delivered
+4379,in transit
+4380,delivered
+4381,in transit
+4382,delivered
+4383,delivered
+4384,delivered
+4385,delivered
+4386,in transit
+4387,delivered
+4388,delivered
+4389,in transit
+4390,delivered
+4391,delivered
+4392,delivered
+4393,delivered
+4394,in transit
+4395,in transit
+4396,delivered
+4397,in transit
+4398,in transit
+4399,in transit
+4400,delivered
+4401,delivered
+4402,delivered
+4403,in transit
+4404,delivered
+4405,delivered
+4406,delivered
+4407,delivered
+4408,delivered
+4409,delivered
+4410,in transit
+4411,delivered
+4412,delivered
+4413,delivered
+4414,delivered
+4415,in transit
+4416,delivered
+4417,delivered
+4418,delivered
+4419,in transit
+4420,delivered
+4421,in transit
+4422,delivered
+4423,delivered
+4424,in transit
+4425,in transit
+4426,delivered
+4427,delivered
+4428,in transit
+4429,in transit
+4430,in transit
+4431,delivered
+4432,delivered
+4433,in transit
+4434,delivered
+4435,in transit
+4436,in transit
+4437,delivered
+4438,delivered
+4439,delivered
+4440,delivered
+4441,in transit
+4442,in transit
+4443,delivered
+4444,in transit
+4445,in transit
+4446,in transit
+4447,in transit
+4448,delivered
+4449,in transit
+4450,delivered
+4451,delivered
+4452,delivered
+4453,in transit
+4454,in transit
+4455,in transit
+4456,in transit
+4457,delivered
+4458,delivered
+4459,in transit
+4460,in transit
+4461,delivered
+4462,in transit
+4463,in transit
+4464,in transit
+4465,delivered
+4466,delivered
+4467,delivered
+4468,in transit
+4469,delivered
+4470,in transit
+4471,delivered
+4472,delivered
+4473,in transit
+4474,in transit
+4475,delivered
+4476,in transit
+4477,delivered
+4478,in transit
+4479,delivered
+4480,in transit
+4481,delivered
+4482,delivered
+4483,in transit
+4484,in transit
+4485,delivered
+4486,in transit
+4487,in transit
+4488,in transit
+4489,in transit
+4490,delivered
+4491,in transit
+4492,delivered
+4493,in transit
+4494,delivered
+4495,in transit
+4496,delivered
+4497,delivered
+4498,in transit
+4499,in transit
+4500,delivered
+4501,delivered
+4502,delivered
+4503,in transit
+4504,in transit
+4505,in transit
+4506,in transit
+4507,in transit
+4508,in transit
+4509,delivered
+4510,in transit
+4511,delivered
+4512,delivered
+4513,in transit
+4514,delivered
+4515,delivered
+4516,delivered
+4517,in transit
+4518,in transit
+4519,delivered
+4520,in transit
+4521,in transit
+4522,delivered
+4523,in transit
+4524,in transit
+4525,in transit
+4526,in transit
+4527,in transit
+4528,delivered
+4529,in transit
+4530,in transit
+4531,in transit
+4532,delivered
+4533,in transit
+4534,delivered
+4535,in transit
+4536,delivered
+4537,in transit
+4538,delivered
+4539,delivered
+4540,delivered
+4541,delivered
+4542,delivered
+4543,in transit
+4544,delivered
+4545,in transit
+4546,delivered
+4547,in transit
+4548,delivered
+4549,in transit
+4550,delivered
+4551,in transit
+4552,delivered
+4553,in transit
+4554,in transit
+4555,in transit
+4556,in transit
+4557,in transit
+4558,delivered
+4559,in transit
+4560,in transit
+4561,in transit
+4562,delivered
+4563,in transit
+4564,in transit
+4565,in transit
+4566,delivered
+4567,delivered
+4568,in transit
+4569,delivered
+4570,delivered
+4571,in transit
+4572,delivered
+4573,in transit
+4574,in transit
+4575,delivered
+4576,in transit
+4577,in transit
+4578,in transit
+4579,delivered
+4580,in transit
+4581,in transit
+4582,in transit
+4583,delivered
+4584,in transit
+4585,delivered
+4586,in transit
+4587,in transit
+4588,in transit
+4589,in transit
+4590,in transit
+4591,delivered
+4592,delivered
+4593,delivered
+4594,delivered
+4595,delivered
+4596,delivered
+4597,in transit
+4598,in transit
+4599,in transit
+4600,in transit
+4601,delivered
+4602,delivered
+4603,in transit
+4604,delivered
+4605,delivered
+4606,in transit
+4607,in transit
+4608,in transit
+4609,delivered
+4610,delivered
+4611,delivered
+4612,in transit
+4613,delivered
+4614,delivered
+4615,in transit
+4616,delivered
+4617,in transit
+4618,delivered
+4619,in transit
+4620,in transit
+4621,in transit
+4622,in transit
+4623,delivered
+4624,delivered
+4625,in transit
+4626,in transit
+4627,in transit
+4628,delivered
+4629,delivered
+4630,in transit
+4631,delivered
+4632,in transit
+4633,delivered
+4634,in transit
+4635,delivered
+4636,delivered
+4637,delivered
+4638,delivered
+4639,in transit
+4640,delivered
+4641,delivered
+4642,delivered
+4643,delivered
+4644,delivered
+4645,in transit
+4646,in transit
+4647,in transit
+4648,delivered
+4649,in transit
+4650,delivered
+4651,in transit
+4652,in transit
+4653,delivered
+4654,delivered
+4655,delivered
+4656,in transit
+4657,delivered
+4658,in transit
+4659,delivered
+4660,in transit
+4661,delivered
+4662,delivered
+4663,delivered
+4664,delivered
+4665,delivered
+4666,delivered
+4667,delivered
+4668,in transit
+4669,delivered
+4670,in transit
+4671,in transit
+4672,delivered
+4673,in transit
+4674,in transit
+4675,delivered
+4676,in transit
+4677,in transit
+4678,delivered
+4679,delivered
+4680,in transit
+4681,delivered
+4682,delivered
+4683,in transit
+4684,delivered
+4685,in transit
+4686,delivered
+4687,in transit
+4688,in transit
+4689,in transit
+4690,delivered
+4691,delivered
+4692,delivered
+4693,delivered
+4694,in transit
+4695,delivered
+4696,delivered
+4697,in transit
+4698,in transit
+4699,delivered
+4700,delivered
+4701,in transit
+4702,in transit
+4703,in transit
+4704,delivered
+4705,in transit
+4706,in transit
+4707,delivered
+4708,delivered
+4709,in transit
+4710,delivered
+4711,delivered
+4712,in transit
+4713,in transit
+4714,in transit
+4715,delivered
+4716,delivered
+4717,delivered
+4718,in transit
+4719,in transit
+4720,delivered
+4721,delivered
+4722,in transit
+4723,delivered
+4724,delivered
+4725,in transit
+4726,delivered
+4727,in transit
+4728,delivered
+4729,delivered
+4730,delivered
+4731,in transit
+4732,in transit
+4733,delivered
+4734,in transit
+4735,delivered
+4736,in transit
+4737,delivered
+4738,in transit
+4739,delivered
+4740,delivered
+4741,delivered
+4742,delivered
+4743,in transit
+4744,delivered
+4745,in transit
+4746,delivered
+4747,in transit
+4748,in transit
+4749,in transit
+4750,delivered
+4751,in transit
+4752,in transit
+4753,in transit
+4754,delivered
+4755,in transit
+4756,in transit
+4757,in transit
+4758,in transit
+4759,delivered
+4760,delivered
+4761,in transit
+4762,delivered
+4763,delivered
+4764,delivered
+4765,delivered
+4766,delivered
+4767,in transit
+4768,in transit
+4769,in transit
+4770,in transit
+4771,in transit
+4772,in transit
+4773,in transit
+4774,delivered
+4775,delivered
+4776,delivered
+4777,in transit
+4778,in transit
+4779,in transit
+4780,delivered
+4781,in transit
+4782,delivered
+4783,in transit
+4784,in transit
+4785,in transit
+4786,in transit
+4787,in transit
+4788,delivered
+4789,in transit
+4790,delivered
+4791,in transit
+4792,delivered
+4793,in transit
+4794,delivered
+4795,in transit
+4796,delivered
+4797,delivered
+4798,in transit
+4799,in transit
+4800,in transit
+4801,delivered
+4802,in transit
+4803,in transit
+4804,in transit
+4805,delivered
+4806,delivered
+4807,delivered
+4808,in transit
+4809,in transit
+4810,in transit
+4811,delivered
+4812,in transit
+4813,in transit
+4814,delivered
+4815,in transit
+4816,in transit
+4817,delivered
+4818,in transit
+4819,delivered
+4820,in transit
+4821,delivered
+4822,delivered
+4823,delivered
+4824,delivered
+4825,in transit
+4826,in transit
+4827,in transit
+4828,delivered
+4829,delivered
+4830,in transit
+4831,in transit
+4832,delivered
+4833,in transit
+4834,delivered
+4835,delivered
+4836,in transit
+4837,in transit
+4838,delivered
+4839,delivered
+4840,in transit
+4841,delivered
+4842,delivered
+4843,delivered
+4844,in transit
+4845,delivered
+4846,delivered
+4847,in transit
+4848,in transit
+4849,delivered
+4850,delivered
+4851,in transit
+4852,in transit
+4853,in transit
+4854,in transit
+4855,in transit
+4856,in transit
+4857,delivered
+4858,in transit
+4859,in transit
+4860,delivered
+4861,delivered
+4862,in transit
+4863,in transit
+4864,delivered
+4865,delivered
+4866,in transit
+4867,delivered
+4868,delivered
+4869,in transit
+4870,in transit
+4871,in transit
+4872,in transit
+4873,delivered
+4874,in transit
+4875,in transit
+4876,delivered
+4877,in transit
+4878,in transit
+4879,in transit
+4880,in transit
+4881,delivered
+4882,delivered
+4883,delivered
+4884,delivered
+4885,delivered
+4886,delivered
+4887,delivered
+4888,in transit
+4889,in transit
+4890,delivered
+4891,delivered
+4892,in transit
+4893,in transit
+4894,delivered
+4895,in transit
+4896,in transit
+4897,delivered
+4898,delivered
+4899,delivered
+4900,in transit
+4901,in transit
+4902,delivered
+4903,delivered
+4904,in transit
+4905,delivered
+4906,delivered
+4907,delivered
+4908,delivered
+4909,in transit
+4910,in transit
+4911,delivered
+4912,delivered
+4913,in transit
+4914,in transit
+4915,delivered
+4916,delivered
+4917,delivered
+4918,delivered
+4919,delivered
+4920,delivered
+4921,in transit
+4922,in transit
+4923,delivered
+4924,delivered
+4925,in transit
+4926,delivered
+4927,in transit
+4928,in transit
+4929,delivered
+4930,in transit
+4931,delivered
+4932,in transit
+4933,in transit
+4934,delivered
+4935,delivered
+4936,delivered
+4937,in transit
+4938,delivered
+4939,delivered
+4940,delivered
+4941,in transit
+4942,delivered
+4943,delivered
+4944,in transit
+4945,delivered
+4946,in transit
+4947,in transit
+4948,in transit
+4949,delivered
+4950,in transit
+4951,delivered
+4952,in transit
+4953,delivered
+4954,delivered
+4955,delivered
+4956,in transit
+4957,delivered
+4958,in transit
+4959,in transit
+4960,delivered
+4961,in transit
+4962,delivered
+4963,delivered
+4964,delivered
+4965,in transit
+4966,delivered
+4967,delivered
+4968,in transit
+4969,in transit
+4970,delivered
+4971,in transit
+4972,in transit
+4973,delivered
+4974,delivered
+4975,in transit
+4976,delivered
+4977,in transit
+4978,in transit
+4979,delivered
+4980,delivered
+4981,delivered
+4982,in transit
+4983,delivered
+4984,delivered
+4985,in transit
+4986,delivered
+4987,delivered
+4988,delivered
+4989,in transit
+4990,in transit
+4991,delivered
+4992,in transit
+4993,delivered
+4994,delivered
+4995,in transit
+4996,in transit
+4997,in transit
+4998,delivered
+4999,delivered
+5000,delivered
+5001,delivered
+5002,delivered
+5003,delivered
+5004,in transit
+5005,delivered
+5006,delivered
+5007,in transit
+5008,delivered
+5009,in transit
+5010,delivered
+5011,delivered
+5012,delivered
+5013,in transit
+5014,in transit
+5015,delivered
+5016,delivered
+5017,delivered
+5018,in transit
+5019,delivered
+5020,delivered
+5021,delivered
+5022,in transit
+5023,delivered
+5024,delivered
+5025,delivered
+5026,delivered
+5027,delivered
+5028,in transit
+5029,delivered
+5030,delivered
+5031,delivered
+5032,in transit
+5033,in transit
+5034,delivered
+5035,in transit
+5036,delivered
+5037,delivered
+5038,in transit
+5039,delivered
+5040,in transit
+5041,in transit
+5042,delivered
+5043,in transit
+5044,in transit
+5045,in transit
+5046,delivered
+5047,in transit
+5048,delivered
+5049,in transit
+5050,in transit
+5051,delivered
+5052,delivered
+5053,in transit
+5054,in transit
+5055,in transit
+5056,delivered
+5057,delivered
+5058,delivered
+5059,in transit
+5060,delivered
+5061,delivered
+5062,in transit
+5063,delivered
+5064,in transit
+5065,delivered
+5066,in transit
+5067,in transit
+5068,delivered
+5069,in transit
+5070,delivered
+5071,delivered
+5072,delivered
+5073,delivered
+5074,delivered
+5075,in transit
+5076,in transit
+5077,in transit
+5078,in transit
+5079,in transit
+5080,in transit
+5081,in transit
+5082,delivered
+5083,delivered
+5084,in transit
+5085,delivered
+5086,in transit
+5087,in transit
+5088,delivered
+5089,delivered
+5090,in transit
+5091,in transit
+5092,in transit
+5093,in transit
+5094,in transit
+5095,in transit
+5096,in transit
+5097,in transit
+5098,delivered
+5099,in transit
+5100,delivered
+5101,delivered
+5102,delivered
+5103,delivered
+5104,delivered
+5105,in transit
+5106,delivered
+5107,in transit
+5108,in transit
+5109,in transit
+5110,delivered
+5111,delivered
+5112,delivered
+5113,delivered
+5114,delivered
+5115,delivered
+5116,in transit
+5117,delivered
+5118,in transit
+5119,delivered
+5120,in transit
+5121,in transit
+5122,in transit
+5123,in transit
+5124,delivered
+5125,in transit
+5126,in transit
+5127,in transit
+5128,delivered
+5129,in transit
+5130,in transit
+5131,delivered
+5132,delivered
+5133,delivered
+5134,in transit
+5135,delivered
+5136,delivered
+5137,delivered
+5138,delivered
+5139,delivered
+5140,in transit
+5141,delivered
+5142,in transit
+5143,delivered
+5144,delivered
+5145,in transit
+5146,in transit
+5147,in transit
+5148,in transit
+5149,delivered
+5150,in transit
+5151,delivered
+5152,delivered
+5153,in transit
+5154,delivered
+5155,delivered
+5156,delivered
+5157,in transit
+5158,in transit
+5159,in transit
+5160,delivered
+5161,in transit
+5162,delivered
+5163,in transit
+5164,in transit
+5165,delivered
+5166,delivered
+5167,delivered
+5168,in transit
+5169,delivered
+5170,delivered
+5171,delivered
+5172,delivered
+5173,in transit
+5174,in transit
+5175,in transit
+5176,delivered
+5177,delivered
+5178,in transit
+5179,delivered
+5180,delivered
+5181,delivered
+5182,delivered
+5183,in transit
+5184,delivered
+5185,delivered
+5186,in transit
+5187,delivered
+5188,in transit
+5189,in transit
+5190,delivered
+5191,delivered
+5192,in transit
+5193,in transit
+5194,delivered
+5195,in transit
+5196,in transit
+5197,delivered
+5198,delivered
+5199,delivered
+5200,delivered
+5201,delivered
+5202,delivered
+5203,in transit
+5204,in transit
+5205,in transit
+5206,in transit
+5207,delivered
+5208,in transit
+5209,delivered
+5210,delivered
+5211,delivered
+5212,delivered
+5213,in transit
+5214,delivered
+5215,delivered
+5216,in transit
+5217,in transit
+5218,delivered
+5219,delivered
+5220,in transit
+5221,in transit
+5222,in transit
+5223,delivered
+5224,in transit
+5225,in transit
+5226,delivered
+5227,in transit
+5228,in transit
+5229,delivered
+5230,delivered
+5231,delivered
+5232,delivered
+5233,delivered
+5234,in transit
+5235,in transit
+5236,in transit
+5237,delivered
+5238,delivered
+5239,delivered
+5240,in transit
+5241,in transit
+5242,delivered
+5243,delivered
+5244,delivered
+5245,delivered
+5246,delivered
+5247,delivered
+5248,delivered
+5249,in transit
+5250,delivered
+5251,in transit
+5252,delivered
+5253,delivered
+5254,delivered
+5255,delivered
+5256,delivered
+5257,in transit
+5258,delivered
+5259,in transit
+5260,delivered
+5261,in transit
+5262,in transit
+5263,in transit
+5264,in transit
+5265,in transit
+5266,in transit
+5267,in transit
+5268,in transit
+5269,in transit
+5270,delivered
+5271,in transit
+5272,delivered
+5273,delivered
+5274,delivered
+5275,in transit
+5276,delivered
+5277,delivered
+5278,in transit
+5279,delivered
+5280,in transit
+5281,in transit
+5282,in transit
+5283,in transit
+5284,in transit
+5285,delivered
+5286,delivered
+5287,delivered
+5288,in transit
+5289,delivered
+5290,in transit
+5291,in transit
+5292,in transit
+5293,in transit
+5294,delivered
+5295,in transit
+5296,in transit
+5297,in transit
+5298,in transit
+5299,delivered
+5300,in transit
+5301,delivered
+5302,delivered
+5303,in transit
+5304,delivered
+5305,in transit
+5306,delivered
+5307,delivered
+5308,delivered
+5309,delivered
+5310,delivered
+5311,delivered
+5312,delivered
+5313,in transit
+5314,delivered
+5315,delivered
+5316,delivered
+5317,delivered
+5318,in transit
+5319,in transit
+5320,delivered
+5321,in transit
+5322,in transit
+5323,delivered
+5324,delivered
+5325,in transit
+5326,in transit
+5327,in transit
+5328,in transit
+5329,in transit
+5330,delivered
+5331,in transit
+5332,delivered
+5333,in transit
+5334,in transit
+5335,in transit
+5336,delivered
+5337,in transit
+5338,in transit
+5339,delivered
+5340,in transit
+5341,in transit
+5342,delivered
+5343,in transit
+5344,delivered
+5345,delivered
+5346,delivered
+5347,delivered
+5348,delivered
+5349,delivered
+5350,delivered
+5351,delivered
+5352,delivered
+5353,delivered
+5354,delivered
+5355,delivered
+5356,delivered
+5357,in transit
+5358,delivered
+5359,delivered
+5360,delivered
+5361,delivered
+5362,in transit
+5363,delivered
+5364,in transit
+5365,in transit
+5366,in transit
+5367,delivered
+5368,in transit
+5369,delivered
+5370,in transit
+5371,in transit
+5372,delivered
+5373,in transit
+5374,delivered
+5375,in transit
+5376,in transit
+5377,delivered
+5378,in transit
+5379,in transit
+5380,in transit
+5381,in transit
+5382,delivered
+5383,delivered
+5384,in transit
+5385,delivered
+5386,in transit
+5387,in transit
+5388,in transit
+5389,in transit
+5390,in transit
+5391,in transit
+5392,delivered
+5393,delivered
+5394,delivered
+5395,in transit
+5396,in transit
+5397,delivered
+5398,in transit
+5399,in transit
+5400,delivered
+5401,delivered
+5402,in transit
+5403,delivered
+5404,delivered
+5405,in transit
+5406,in transit
+5407,delivered
+5408,in transit
+5409,in transit
+5410,delivered
+5411,in transit
+5412,in transit
+5413,in transit
+5414,delivered
+5415,in transit
+5416,delivered
+5417,in transit
+5418,delivered
+5419,delivered
+5420,in transit
+5421,in transit
+5422,delivered
+5423,delivered
+5424,in transit
+5425,in transit
+5426,in transit
+5427,in transit
+5428,delivered
+5429,delivered
+5430,delivered
+5431,in transit
+5432,in transit
+5433,delivered
+5434,delivered
+5435,in transit
+5436,in transit
+5437,delivered
+5438,in transit
+5439,in transit
+5440,in transit
+5441,delivered
+5442,in transit
+5443,delivered
+5444,delivered
+5445,delivered
+5446,delivered
+5447,delivered
+5448,delivered
+5449,delivered
+5450,delivered
+5451,in transit
+5452,delivered
+5453,in transit
+5454,delivered
+5455,delivered
+5456,in transit
+5457,in transit
+5458,delivered
+5459,delivered
+5460,delivered
+5461,delivered
+5462,delivered
+5463,delivered
+5464,delivered
+5465,in transit
+5466,in transit
+5467,delivered
+5468,delivered
+5469,delivered
+5470,in transit
+5471,in transit
+5472,in transit
+5473,in transit
+5474,in transit
+5475,in transit
+5476,in transit
+5477,delivered
+5478,in transit
+5479,delivered
+5480,in transit
+5481,in transit
+5482,in transit
+5483,in transit
+5484,in transit
+5485,in transit
+5486,in transit
+5487,delivered
+5488,delivered
+5489,delivered
+5490,delivered
+5491,in transit
+5492,in transit
+5493,in transit
+5494,delivered
+5495,in transit
+5496,delivered
+5497,delivered
+5498,delivered
+5499,delivered
+5500,in transit
+5501,in transit
+5502,delivered
+5503,in transit
+5504,delivered
+5505,delivered
+5506,delivered
+5507,delivered
+5508,in transit
+5509,in transit
+5510,in transit
+5511,delivered
+5512,in transit
+5513,delivered
+5514,in transit
+5515,in transit
+5516,in transit
+5517,delivered
+5518,delivered
+5519,delivered
+5520,delivered
+5521,delivered
+5522,delivered
+5523,in transit
+5524,delivered
+5525,in transit
+5526,in transit
+5527,delivered
+5528,in transit
+5529,delivered
+5530,in transit
+5531,delivered
+5532,delivered
+5533,delivered
+5534,in transit
+5535,delivered
+5536,in transit
+5537,in transit
+5538,delivered
+5539,in transit
+5540,in transit
+5541,in transit
+5542,in transit
+5543,in transit
+5544,delivered
+5545,in transit
+5546,in transit
+5547,in transit
+5548,delivered
+5549,delivered
+5550,in transit
+5551,delivered
+5552,in transit
+5553,in transit
+5554,delivered
+5555,delivered
+5556,delivered
+5557,in transit
+5558,delivered
+5559,delivered
+5560,in transit
+5561,in transit
+5562,in transit
+5563,in transit
+5564,delivered
+5565,delivered
+5566,in transit
+5567,delivered
+5568,delivered
+5569,in transit
+5570,in transit
+5571,in transit
+5572,delivered
+5573,delivered
+5574,in transit
+5575,delivered
+5576,in transit
+5577,in transit
+5578,in transit
+5579,delivered
+5580,in transit
+5581,in transit
+5582,delivered
+5583,delivered
+5584,in transit
+5585,in transit
+5586,in transit
+5587,delivered
+5588,in transit
+5589,delivered
+5590,delivered
+5591,in transit
+5592,delivered
+5593,delivered
+5594,in transit
+5595,delivered
+5596,delivered
+5597,in transit
+5598,delivered
+5599,in transit
+5600,in transit
+5601,delivered
+5602,delivered
+5603,in transit
+5604,in transit
+5605,delivered
+5606,in transit
+5607,delivered
+5608,in transit
+5609,in transit
+5610,delivered
+5611,delivered
+5612,in transit
+5613,in transit
+5614,delivered
+5615,delivered
+5616,delivered
+5617,in transit
+5618,delivered
+5619,in transit
+5620,in transit
+5621,delivered
+5622,in transit
+5623,in transit
+5624,delivered
+5625,delivered
+5626,in transit
+5627,in transit
+5628,in transit
+5629,delivered
+5630,delivered
+5631,delivered
+5632,delivered
+5633,in transit
+5634,delivered
+5635,delivered
+5636,in transit
+5637,delivered
+5638,delivered
+5639,in transit
+5640,delivered
+5641,delivered
+5642,in transit
+5643,in transit
+5644,delivered
+5645,delivered
+5646,in transit
+5647,in transit
+5648,delivered
+5649,delivered
+5650,in transit
+5651,in transit
+5652,delivered
+5653,in transit
+5654,delivered
+5655,delivered
+5656,delivered
+5657,delivered
+5658,delivered
+5659,delivered
+5660,delivered
+5661,delivered
+5662,delivered
+5663,delivered
+5664,in transit
+5665,delivered
+5666,delivered
+5667,delivered
+5668,delivered
+5669,delivered
+5670,delivered
+5671,in transit
+5672,in transit
+5673,delivered
+5674,in transit
+5675,in transit
+5676,delivered
+5677,delivered
+5678,in transit
+5679,delivered
+5680,in transit
+5681,delivered
+5682,in transit
+5683,delivered
+5684,in transit
+5685,in transit
+5686,delivered
+5687,delivered
+5688,delivered
+5689,in transit
+5690,in transit
+5691,in transit
+5692,in transit
+5693,in transit
+5694,in transit
+5695,delivered
+5696,in transit
+5697,in transit
+5698,in transit
+5699,delivered
+5700,in transit
+5701,delivered
+5702,delivered
+5703,delivered
+5704,delivered
+5705,in transit
+5706,delivered
+5707,in transit
+5708,in transit
+5709,delivered
+5710,in transit
+5711,delivered
+5712,delivered
+5713,delivered
+5714,delivered
+5715,delivered
+5716,delivered
+5717,delivered
+5718,delivered
+5719,delivered
+5720,delivered
+5721,in transit
+5722,delivered
+5723,in transit
+5724,in transit
+5725,in transit
+5726,in transit
+5727,delivered
+5728,in transit
+5729,delivered
+5730,delivered
+5731,in transit
+5732,delivered
+5733,in transit
+5734,in transit
+5735,delivered
+5736,in transit
+5737,delivered
+5738,in transit
+5739,delivered
+5740,delivered
+5741,delivered
+5742,in transit
+5743,delivered
+5744,in transit
+5745,delivered
+5746,in transit
+5747,in transit
+5748,in transit
+5749,in transit
+5750,delivered
+5751,in transit
+5752,in transit
+5753,in transit
+5754,delivered
+5755,in transit
+5756,in transit
+5757,in transit
+5758,delivered
+5759,in transit
+5760,in transit
+5761,in transit
+5762,delivered
+5763,in transit
+5764,in transit
+5765,in transit
+5766,in transit
+5767,delivered
+5768,delivered
+5769,delivered
+5770,in transit
+5771,in transit
+5772,in transit
+5773,delivered
+5774,in transit
+5775,delivered
+5776,in transit
+5777,delivered
+5778,in transit
+5779,in transit
+5780,in transit
+5781,in transit
+5782,in transit
+5783,in transit
+5784,delivered
+5785,in transit
+5786,delivered
+5787,delivered
+5788,delivered
+5789,delivered
+5790,delivered
+5791,in transit
+5792,in transit
+5793,delivered
+5794,delivered
+5795,in transit
+5796,delivered
+5797,delivered
+5798,delivered
+5799,delivered
+5800,delivered
+5801,delivered
+5802,in transit
+5803,in transit
+5804,delivered
+5805,delivered
+5806,in transit
+5807,in transit
+5808,in transit
+5809,in transit
+5810,in transit
+5811,in transit
+5812,delivered
+5813,delivered
+5814,delivered
+5815,in transit
+5816,delivered
+5817,delivered
+5818,in transit
+5819,in transit
+5820,delivered
+5821,in transit
+5822,in transit
+5823,delivered
+5824,in transit
+5825,delivered
+5826,delivered
+5827,in transit
+5828,delivered
+5829,in transit
+5830,in transit
+5831,delivered
+5832,in transit
+5833,delivered
+5834,in transit
+5835,in transit
+5836,delivered
+5837,in transit
+5838,delivered
+5839,delivered
+5840,delivered
+5841,delivered
+5842,in transit
+5843,delivered
+5844,in transit
+5845,delivered
+5846,delivered
+5847,in transit
+5848,delivered
+5849,delivered
+5850,delivered
+5851,delivered
+5852,delivered
+5853,delivered
+5854,in transit
+5855,delivered
+5856,delivered
+5857,in transit
+5858,delivered
+5859,delivered
+5860,delivered
+5861,in transit
+5862,in transit
+5863,delivered
+5864,delivered
+5865,in transit
+5866,in transit
+5867,in transit
+5868,in transit
+5869,in transit
+5870,in transit
+5871,delivered
+5872,delivered
+5873,delivered
+5874,in transit
+5875,in transit
+5876,delivered
+5877,delivered
+5878,in transit
+5879,in transit
+5880,in transit
+5881,in transit
+5882,in transit
+5883,in transit
+5884,delivered
+5885,delivered
+5886,delivered
+5887,in transit
+5888,in transit
+5889,in transit
+5890,delivered
+5891,in transit
+5892,delivered
+5893,in transit
+5894,in transit
+5895,in transit
+5896,in transit
+5897,in transit
+5898,delivered
+5899,delivered
+5900,delivered
+5901,delivered
+5902,delivered
+5903,in transit
+5904,in transit
+5905,in transit
+5906,in transit
+5907,delivered
+5908,in transit
+5909,delivered
+5910,in transit
+5911,in transit
+5912,in transit
+5913,delivered
+5914,in transit
+5915,delivered
+5916,delivered
+5917,in transit
+5918,delivered
+5919,delivered
+5920,delivered
+5921,delivered
+5922,in transit
+5923,delivered
+5924,delivered
+5925,delivered
+5926,delivered
+5927,in transit
+5928,in transit
+5929,in transit
+5930,in transit
+5931,in transit
+5932,delivered
+5933,in transit
+5934,in transit
+5935,in transit
+5936,in transit
+5937,delivered
+5938,delivered
+5939,in transit
+5940,delivered
+5941,delivered
+5942,delivered
+5943,in transit
+5944,in transit
+5945,delivered
+5946,delivered
+5947,delivered
+5948,in transit
+5949,delivered
+5950,delivered
+5951,in transit
+5952,delivered
+5953,in transit
+5954,in transit
+5955,in transit
+5956,delivered
+5957,delivered
+5958,delivered
+5959,in transit
+5960,in transit
+5961,in transit
+5962,delivered
+5963,delivered
+5964,delivered
+5965,delivered
+5966,in transit
+5967,in transit
+5968,delivered
+5969,delivered
+5970,in transit
+5971,in transit
+5972,in transit
+5973,in transit
+5974,in transit
+5975,delivered
+5976,delivered
+5977,in transit
+5978,delivered
+5979,in transit
+5980,in transit
+5981,in transit
+5982,in transit
+5983,in transit
+5984,in transit
+5985,in transit
+5986,delivered
+5987,delivered
+5988,in transit
+5989,in transit
+5990,delivered
+5991,delivered
+5992,in transit
+5993,delivered
+5994,delivered
+5995,in transit
+5996,in transit
+5997,delivered
+5998,delivered
+5999,delivered
+6000,in transit
+6001,in transit
+6002,in transit
+6003,in transit
+6004,delivered
+6005,delivered
+6006,in transit
+6007,delivered
+6008,in transit
+6009,delivered
+6010,in transit
+6011,delivered
+6012,delivered
+6013,delivered
+6014,in transit
+6015,delivered
+6016,delivered
+6017,in transit
+6018,in transit
+6019,in transit
+6020,delivered
+6021,in transit
+6022,delivered
+6023,delivered
+6024,in transit
+6025,delivered
+6026,delivered
+6027,in transit
+6028,in transit
+6029,delivered
+6030,in transit
+6031,in transit
+6032,delivered
+6033,delivered
+6034,in transit
+6035,in transit
+6036,in transit
+6037,in transit
+6038,delivered
+6039,in transit
+6040,delivered
+6041,delivered
+6042,in transit
+6043,delivered
+6044,in transit
+6045,in transit
+6046,delivered
+6047,delivered
+6048,delivered
+6049,delivered
+6050,delivered
+6051,delivered
+6052,in transit
+6053,delivered
+6054,delivered
+6055,in transit
+6056,delivered
+6057,delivered
+6058,in transit
+6059,delivered
+6060,in transit
+6061,delivered
+6062,delivered
+6063,in transit
+6064,in transit
+6065,in transit
+6066,in transit
+6067,in transit
+6068,in transit
+6069,delivered
+6070,in transit
+6071,delivered
+6072,in transit
+6073,in transit
+6074,delivered
+6075,delivered
+6076,delivered
+6077,delivered
+6078,in transit
+6079,delivered
+6080,in transit
+6081,delivered
+6082,delivered
+6083,delivered
+6084,delivered
+6085,delivered
+6086,delivered
+6087,delivered
+6088,in transit
+6089,delivered
+6090,in transit
+6091,delivered
+6092,delivered
+6093,in transit
+6094,in transit
+6095,in transit
+6096,delivered
+6097,in transit
+6098,delivered
+6099,in transit
+6100,in transit
+6101,delivered
+6102,in transit
+6103,delivered
+6104,in transit
+6105,delivered
+6106,in transit
+6107,in transit
+6108,in transit
+6109,in transit
+6110,delivered
+6111,delivered
+6112,delivered
+6113,delivered
+6114,in transit
+6115,in transit
+6116,in transit
+6117,in transit
+6118,delivered
+6119,in transit
+6120,in transit
+6121,in transit
+6122,in transit
+6123,in transit
+6124,delivered
+6125,in transit
+6126,delivered
+6127,delivered
+6128,in transit
+6129,in transit
+6130,in transit
+6131,in transit
+6132,delivered
+6133,delivered
+6134,delivered
+6135,in transit
+6136,in transit
+6137,in transit
+6138,delivered
+6139,in transit
+6140,in transit
+6141,in transit
+6142,in transit
+6143,in transit
+6144,delivered
+6145,delivered
+6146,delivered
+6147,in transit
+6148,in transit
+6149,delivered
+6150,in transit
+6151,delivered
+6152,in transit
+6153,in transit
+6154,in transit
+6155,in transit
+6156,delivered
+6157,delivered
+6158,in transit
+6159,delivered
+6160,in transit
+6161,delivered
+6162,delivered
+6163,in transit
+6164,delivered
+6165,in transit
+6166,delivered
+6167,delivered
+6168,delivered
+6169,delivered
+6170,delivered
+6171,in transit
+6172,in transit
+6173,in transit
+6174,in transit
+6175,delivered
+6176,in transit
+6177,delivered
+6178,in transit
+6179,delivered
+6180,in transit
+6181,delivered
+6182,in transit
+6183,in transit
+6184,delivered
+6185,delivered
+6186,delivered
+6187,delivered
+6188,delivered
+6189,in transit
+6190,delivered
+6191,in transit
+6192,delivered
+6193,in transit
+6194,in transit
+6195,in transit
+6196,in transit
+6197,delivered
+6198,delivered
+6199,delivered
+6200,in transit
+6201,delivered
+6202,delivered
+6203,in transit
+6204,delivered
+6205,in transit
+6206,in transit
+6207,delivered
+6208,delivered
+6209,delivered
+6210,in transit
+6211,in transit
+6212,in transit
+6213,delivered
+6214,delivered
+6215,in transit
+6216,delivered
+6217,delivered
+6218,in transit
+6219,in transit
+6220,delivered
+6221,in transit
+6222,delivered
+6223,in transit
+6224,in transit
+6225,in transit
+6226,delivered
+6227,delivered
+6228,delivered
+6229,delivered
+6230,delivered
+6231,in transit
+6232,in transit
+6233,delivered
+6234,in transit
+6235,delivered
+6236,in transit
+6237,in transit
+6238,delivered
+6239,in transit
+6240,delivered
+6241,in transit
+6242,delivered
+6243,in transit
+6244,delivered
+6245,delivered
+6246,delivered
+6247,in transit
+6248,delivered
+6249,in transit
+6250,delivered
+6251,delivered
+6252,in transit
+6253,delivered
+6254,in transit
+6255,in transit
+6256,delivered
+6257,delivered
+6258,delivered
+6259,in transit
+6260,delivered
+6261,delivered
+6262,in transit
+6263,delivered
+6264,delivered
+6265,in transit
+6266,delivered
+6267,in transit
+6268,in transit
+6269,in transit
+6270,delivered
+6271,delivered
+6272,delivered
+6273,delivered
+6274,in transit
+6275,delivered
+6276,delivered
+6277,delivered
+6278,delivered
+6279,delivered
+6280,in transit
+6281,in transit
+6282,in transit
+6283,delivered
+6284,in transit
+6285,delivered
+6286,in transit
+6287,in transit
+6288,delivered
+6289,delivered
+6290,delivered
+6291,in transit
+6292,delivered
+6293,in transit
+6294,delivered
+6295,in transit
+6296,in transit
+6297,delivered
+6298,delivered
+6299,in transit
+6300,delivered
+6301,in transit
+6302,in transit
+6303,in transit
+6304,in transit
+6305,delivered
+6306,delivered
+6307,in transit
+6308,delivered
+6309,delivered
+6310,in transit
+6311,delivered
+6312,delivered
+6313,delivered
+6314,delivered
+6315,delivered
+6316,in transit
+6317,delivered
+6318,in transit
+6319,in transit
+6320,delivered
+6321,in transit
+6322,in transit
+6323,delivered
+6324,delivered
+6325,delivered
+6326,in transit
+6327,in transit
+6328,delivered
+6329,in transit
+6330,delivered
+6331,in transit
+6332,delivered
+6333,delivered
+6334,delivered
+6335,in transit
+6336,delivered
+6337,in transit
+6338,delivered
+6339,in transit
+6340,in transit
+6341,in transit
+6342,in transit
+6343,in transit
+6344,in transit
+6345,delivered
+6346,delivered
+6347,delivered
+6348,delivered
+6349,delivered
+6350,delivered
+6351,delivered
+6352,delivered
+6353,in transit
+6354,in transit
+6355,in transit
+6356,in transit
+6357,in transit
+6358,in transit
+6359,in transit
+6360,delivered
+6361,in transit
+6362,delivered
+6363,delivered
+6364,in transit
+6365,in transit
+6366,in transit
+6367,in transit
+6368,in transit
+6369,in transit
+6370,delivered
+6371,in transit
+6372,delivered
+6373,delivered
+6374,delivered
+6375,in transit
+6376,in transit
+6377,delivered
+6378,in transit
+6379,delivered
+6380,in transit
+6381,delivered
+6382,delivered
+6383,in transit
+6384,in transit
+6385,delivered
+6386,delivered
+6387,in transit
+6388,in transit
+6389,delivered
+6390,delivered
+6391,in transit
+6392,delivered
+6393,delivered
+6394,in transit
+6395,in transit
+6396,in transit
+6397,in transit
+6398,in transit
+6399,in transit
+6400,in transit
+6401,in transit
+6402,delivered
+6403,delivered
+6404,delivered
+6405,in transit
+6406,delivered
+6407,delivered
+6408,in transit
+6409,in transit
+6410,delivered
+6411,in transit
+6412,delivered
+6413,delivered
+6414,in transit
+6415,in transit
+6416,in transit
+6417,in transit
+6418,delivered
+6419,in transit
+6420,in transit
+6421,delivered
+6422,in transit
+6423,in transit
+6424,in transit
+6425,delivered
+6426,in transit
+6427,in transit
+6428,delivered
+6429,in transit
+6430,delivered
+6431,in transit
+6432,in transit
+6433,delivered
+6434,delivered
+6435,in transit
+6436,in transit
+6437,in transit
+6438,in transit
+6439,in transit
+6440,delivered
+6441,delivered
+6442,in transit
+6443,delivered
+6444,delivered
+6445,delivered
+6446,delivered
+6447,delivered
+6448,in transit
+6449,in transit
+6450,delivered
+6451,delivered
+6452,delivered
+6453,delivered
+6454,in transit
+6455,in transit
+6456,in transit
+6457,in transit
+6458,delivered
+6459,in transit
+6460,delivered
+6461,delivered
+6462,delivered
+6463,delivered
+6464,delivered
+6465,delivered
+6466,in transit
+6467,in transit
+6468,delivered
+6469,delivered
+6470,in transit
+6471,in transit
+6472,delivered
+6473,in transit
+6474,in transit
+6475,in transit
+6476,delivered
+6477,in transit
+6478,in transit
+6479,delivered
+6480,delivered
+6481,delivered
+6482,delivered
+6483,delivered
+6484,delivered
+6485,delivered
+6486,in transit
+6487,in transit
+6488,in transit
+6489,delivered
+6490,delivered
+6491,delivered
+6492,in transit
+6493,in transit
+6494,delivered
+6495,in transit
+6496,delivered
+6497,delivered
+6498,in transit
+6499,in transit
+6500,in transit
+6501,in transit
+6502,delivered
+6503,delivered
+6504,delivered
+6505,in transit
+6506,in transit
+6507,in transit
+6508,in transit
+6509,in transit
+6510,delivered
+6511,in transit
+6512,delivered
+6513,delivered
+6514,in transit
+6515,in transit
+6516,in transit
+6517,delivered
+6518,in transit
+6519,delivered
+6520,delivered
+6521,delivered
+6522,in transit
+6523,delivered
+6524,in transit
+6525,in transit
+6526,in transit
+6527,in transit
+6528,in transit
+6529,delivered
+6530,delivered
+6531,delivered
+6532,in transit
+6533,in transit
+6534,in transit
+6535,in transit
+6536,in transit
+6537,in transit
+6538,in transit
+6539,in transit
+6540,delivered
+6541,delivered
+6542,in transit
+6543,in transit
+6544,in transit
+6545,delivered
+6546,in transit
+6547,in transit
+6548,delivered
+6549,delivered
+6550,in transit
+6551,in transit
+6552,delivered
+6553,in transit
+6554,in transit
+6555,delivered
+6556,delivered
+6557,delivered
+6558,in transit
+6559,delivered
+6560,delivered
+6561,delivered
+6562,delivered
+6563,in transit
+6564,in transit
+6565,delivered
+6566,delivered
+6567,delivered
+6568,in transit
+6569,delivered
+6570,delivered
+6571,in transit
+6572,in transit
+6573,in transit
+6574,delivered
+6575,delivered
+6576,delivered
+6577,in transit
+6578,in transit
+6579,in transit
+6580,in transit
+6581,in transit
+6582,delivered
+6583,in transit
+6584,in transit
+6585,in transit
+6586,in transit
+6587,delivered
+6588,in transit
+6589,delivered
+6590,delivered
+6591,in transit
+6592,delivered
+6593,in transit
+6594,in transit
+6595,delivered
+6596,delivered
+6597,in transit
+6598,in transit
+6599,in transit
+6600,in transit
+6601,in transit
+6602,delivered
+6603,in transit
+6604,in transit
+6605,delivered
+6606,in transit
+6607,in transit
+6608,delivered
+6609,delivered
+6610,delivered
+6611,in transit
+6612,delivered
+6613,delivered
+6614,delivered
+6615,in transit
+6616,delivered
+6617,delivered
+6618,delivered
+6619,in transit
+6620,in transit
+6621,in transit
+6622,in transit
+6623,delivered
+6624,in transit
+6625,in transit
+6626,delivered
+6627,delivered
+6628,delivered
+6629,in transit
+6630,in transit
+6631,in transit
+6632,delivered
+6633,in transit
+6634,delivered
+6635,in transit
+6636,delivered
+6637,in transit
+6638,in transit
+6639,in transit
+6640,delivered
+6641,in transit
+6642,in transit
+6643,in transit
+6644,delivered
+6645,in transit
+6646,in transit
+6647,delivered
+6648,delivered
+6649,delivered
+6650,delivered
+6651,delivered
+6652,delivered
+6653,delivered
+6654,delivered
+6655,delivered
+6656,delivered
+6657,delivered
+6658,in transit
+6659,delivered
+6660,in transit
+6661,delivered
+6662,in transit
+6663,in transit
+6664,in transit
+6665,in transit
+6666,in transit
+6667,delivered
+6668,in transit
+6669,in transit
+6670,delivered
+6671,in transit
+6672,in transit
+6673,delivered
+6674,delivered
+6675,delivered
+6676,in transit
+6677,delivered
+6678,delivered
+6679,in transit
+6680,in transit
+6681,delivered
+6682,delivered
+6683,in transit
+6684,in transit
+6685,in transit
+6686,in transit
+6687,delivered
+6688,in transit
+6689,in transit
+6690,delivered
+6691,in transit
+6692,delivered
+6693,delivered
+6694,in transit
+6695,in transit
+6696,delivered
+6697,delivered
+6698,delivered
+6699,in transit
+6700,in transit
+6701,delivered
+6702,in transit
+6703,delivered
+6704,in transit
+6705,in transit
+6706,in transit
+6707,in transit
+6708,delivered
+6709,delivered
+6710,delivered
+6711,delivered
+6712,in transit
+6713,in transit
+6714,in transit
+6715,in transit
+6716,delivered
+6717,delivered
+6718,delivered
+6719,in transit
+6720,in transit
+6721,in transit
+6722,delivered
+6723,in transit
+6724,in transit
+6725,delivered
+6726,in transit
+6727,in transit
+6728,delivered
+6729,in transit
+6730,delivered
+6731,delivered
+6732,in transit
+6733,delivered
+6734,in transit
+6735,in transit
+6736,delivered
+6737,in transit
+6738,in transit
+6739,delivered
+6740,delivered
+6741,in transit
+6742,in transit
+6743,in transit
+6744,delivered
+6745,delivered
+6746,in transit
+6747,in transit
+6748,in transit
+6749,in transit
+6750,in transit
+6751,delivered
+6752,delivered
+6753,in transit
+6754,in transit
+6755,in transit
+6756,in transit
+6757,in transit
+6758,in transit
+6759,delivered
+6760,in transit
+6761,delivered
+6762,delivered
+6763,delivered
+6764,delivered
+6765,in transit
+6766,delivered
+6767,in transit
+6768,in transit
+6769,delivered
+6770,in transit
+6771,delivered
+6772,in transit
+6773,in transit
+6774,in transit
+6775,in transit
+6776,delivered
+6777,delivered
+6778,delivered
+6779,in transit
+6780,in transit
+6781,delivered
+6782,in transit
+6783,in transit
+6784,in transit
+6785,in transit
+6786,in transit
+6787,delivered
+6788,in transit
+6789,in transit
+6790,delivered
+6791,in transit
+6792,delivered
+6793,delivered
+6794,delivered
+6795,in transit
+6796,in transit
+6797,in transit
+6798,in transit
+6799,delivered
+6800,delivered
+6801,in transit
+6802,delivered
+6803,delivered
+6804,in transit
+6805,in transit
+6806,delivered
+6807,in transit
+6808,delivered
+6809,delivered
+6810,delivered
+6811,delivered
+6812,in transit
+6813,in transit
+6814,in transit
+6815,delivered
+6816,delivered
+6817,delivered
+6818,in transit
+6819,delivered
+6820,delivered
+6821,delivered
+6822,in transit
+6823,delivered
+6824,in transit
+6825,in transit
+6826,delivered
+6827,in transit
+6828,delivered
+6829,in transit
+6830,delivered
+6831,delivered
+6832,in transit
+6833,delivered
+6834,in transit
+6835,delivered
+6836,delivered
+6837,in transit
+6838,in transit
+6839,in transit
+6840,in transit
+6841,in transit
+6842,delivered
+6843,delivered
+6844,delivered
+6845,in transit
+6846,delivered
+6847,delivered
+6848,in transit
+6849,delivered
+6850,in transit
+6851,delivered
+6852,in transit
+6853,delivered
+6854,in transit
+6855,in transit
+6856,delivered
+6857,in transit
+6858,in transit
+6859,delivered
+6860,in transit
+6861,delivered
+6862,delivered
+6863,delivered
+6864,in transit
+6865,delivered
+6866,in transit
+6867,delivered
+6868,in transit
+6869,delivered
+6870,in transit
+6871,in transit
+6872,in transit
+6873,in transit
+6874,delivered
+6875,delivered
+6876,in transit
+6877,delivered
+6878,delivered
+6879,delivered
+6880,delivered
+6881,in transit
+6882,delivered
+6883,in transit
+6884,delivered
+6885,in transit
+6886,delivered
+6887,delivered
+6888,in transit
+6889,in transit
+6890,delivered
+6891,in transit
+6892,delivered
+6893,in transit
+6894,in transit
+6895,delivered
+6896,delivered
+6897,in transit
+6898,delivered
+6899,delivered
+6900,delivered
+6901,in transit
+6902,delivered
+6903,delivered
+6904,delivered
+6905,in transit
+6906,in transit
+6907,in transit
+6908,in transit
+6909,delivered
+6910,delivered
+6911,in transit
+6912,in transit
+6913,delivered
+6914,delivered
+6915,delivered
+6916,delivered
+6917,delivered
+6918,delivered
+6919,delivered
+6920,delivered
+6921,delivered
+6922,delivered
+6923,in transit
+6924,in transit
+6925,delivered
+6926,delivered
+6927,in transit
+6928,delivered
+6929,in transit
+6930,delivered
+6931,in transit
+6932,delivered
+6933,in transit
+6934,in transit
+6935,delivered
+6936,in transit
+6937,delivered
+6938,delivered
+6939,in transit
+6940,delivered
+6941,delivered
+6942,delivered
+6943,in transit
+6944,in transit
+6945,delivered
+6946,in transit
+6947,in transit
+6948,in transit
+6949,delivered
+6950,delivered
+6951,in transit
+6952,delivered
+6953,delivered
+6954,in transit
+6955,in transit
+6956,in transit
+6957,delivered
+6958,delivered
+6959,in transit
+6960,delivered
+6961,delivered
+6962,in transit
+6963,delivered
+6964,in transit
+6965,delivered
+6966,delivered
+6967,in transit
+6968,in transit
+6969,delivered
+6970,in transit
+6971,in transit
+6972,delivered
+6973,delivered
+6974,in transit
+6975,in transit
+6976,in transit
+6977,delivered
+6978,in transit
+6979,in transit
+6980,in transit
+6981,in transit
+6982,in transit
+6983,in transit
+6984,in transit
+6985,delivered
+6986,in transit
+6987,delivered
+6988,in transit
+6989,delivered
+6990,delivered
+6991,delivered
+6992,delivered
+6993,in transit
+6994,delivered
+6995,delivered
+6996,delivered
+6997,in transit
+6998,delivered
+6999,in transit
+7000,delivered
+7001,in transit
+7002,delivered
+7003,in transit
+7004,delivered
+7005,in transit
+7006,delivered
+7007,in transit
+7008,in transit
+7009,delivered
+7010,in transit
+7011,delivered
+7012,in transit
+7013,in transit
+7014,delivered
+7015,delivered
+7016,in transit
+7017,in transit
+7018,in transit
+7019,in transit
+7020,in transit
+7021,delivered
+7022,in transit
+7023,in transit
+7024,delivered
+7025,in transit
+7026,delivered
+7027,delivered
+7028,in transit
+7029,in transit
+7030,in transit
+7031,in transit
+7032,delivered
+7033,in transit
+7034,delivered
+7035,delivered
+7036,delivered
+7037,in transit
+7038,delivered
+7039,delivered
+7040,in transit
+7041,in transit
+7042,in transit
+7043,delivered
+7044,delivered
+7045,delivered
+7046,in transit
+7047,in transit
+7048,in transit
+7049,delivered
+7050,delivered
+7051,delivered
+7052,in transit
+7053,delivered
+7054,delivered
+7055,delivered
+7056,delivered
+7057,in transit
+7058,delivered
+7059,in transit
+7060,delivered
+7061,in transit
+7062,delivered
+7063,in transit
+7064,in transit
+7065,delivered
+7066,delivered
+7067,in transit
+7068,delivered
+7069,delivered
+7070,in transit
+7071,in transit
+7072,delivered
+7073,in transit
+7074,delivered
+7075,delivered
+7076,delivered
+7077,in transit
+7078,in transit
+7079,delivered
+7080,in transit
+7081,delivered
+7082,in transit
+7083,delivered
+7084,in transit
+7085,delivered
+7086,delivered
+7087,in transit
+7088,delivered
+7089,in transit
+7090,in transit
+7091,in transit
+7092,in transit
+7093,delivered
+7094,delivered
+7095,delivered
+7096,in transit
+7097,delivered
+7098,in transit
+7099,in transit
+7100,in transit
+7101,in transit
+7102,delivered
+7103,delivered
+7104,in transit
+7105,delivered
+7106,in transit
+7107,in transit
+7108,in transit
+7109,in transit
+7110,delivered
+7111,delivered
+7112,in transit
+7113,delivered
+7114,in transit
+7115,delivered
+7116,in transit
+7117,delivered
+7118,delivered
+7119,in transit
+7120,in transit
+7121,delivered
+7122,delivered
+7123,delivered
+7124,delivered
+7125,delivered
+7126,in transit
+7127,in transit
+7128,delivered
+7129,delivered
+7130,delivered
+7131,delivered
+7132,delivered
+7133,in transit
+7134,in transit
+7135,delivered
+7136,delivered
+7137,delivered
+7138,delivered
+7139,delivered
+7140,delivered
+7141,delivered
+7142,in transit
+7143,in transit
+7144,in transit
+7145,in transit
+7146,in transit
+7147,delivered
+7148,in transit
+7149,in transit
+7150,in transit
+7151,in transit
+7152,in transit
+7153,delivered
+7154,delivered
+7155,in transit
+7156,delivered
+7157,in transit
+7158,delivered
+7159,delivered
+7160,in transit
+7161,delivered
+7162,in transit
+7163,in transit
+7164,in transit
+7165,delivered
+7166,delivered
+7167,delivered
+7168,in transit
+7169,delivered
+7170,in transit
+7171,in transit
+7172,in transit
+7173,in transit
+7174,delivered
+7175,in transit
+7176,in transit
+7177,in transit
+7178,in transit
+7179,delivered
+7180,delivered
+7181,delivered
+7182,delivered
+7183,delivered
+7184,in transit
+7185,in transit
+7186,in transit
+7187,delivered
+7188,in transit
+7189,delivered
+7190,in transit
+7191,in transit
+7192,delivered
+7193,delivered
+7194,delivered
+7195,delivered
+7196,delivered
+7197,delivered
+7198,delivered
+7199,in transit
+7200,delivered
+7201,in transit
+7202,in transit
+7203,in transit
+7204,delivered
+7205,delivered
+7206,delivered
+7207,delivered
+7208,delivered
+7209,delivered
+7210,delivered
+7211,delivered
+7212,in transit
+7213,delivered
+7214,in transit
+7215,in transit
+7216,delivered
+7217,in transit
+7218,delivered
+7219,delivered
+7220,delivered
+7221,delivered
+7222,delivered
+7223,in transit
+7224,delivered
+7225,in transit
+7226,delivered
+7227,in transit
+7228,in transit
+7229,delivered
+7230,delivered
+7231,in transit
+7232,delivered
+7233,in transit
+7234,delivered
+7235,in transit
+7236,delivered
+7237,delivered
+7238,delivered
+7239,in transit
+7240,in transit
+7241,delivered
+7242,delivered
+7243,in transit
+7244,delivered
+7245,in transit
+7246,delivered
+7247,in transit
+7248,in transit
+7249,in transit
+7250,in transit
+7251,in transit
+7252,in transit
+7253,in transit
+7254,delivered
+7255,in transit
+7256,delivered
+7257,delivered
+7258,in transit
+7259,delivered
+7260,in transit
+7261,delivered
+7262,in transit
+7263,in transit
+7264,in transit
+7265,in transit
+7266,in transit
+7267,delivered
+7268,in transit
+7269,in transit
+7270,in transit
+7271,delivered
+7272,in transit
+7273,in transit
+7274,in transit
+7275,delivered
+7276,in transit
+7277,in transit
+7278,delivered
+7279,in transit
+7280,delivered
+7281,delivered
+7282,in transit
+7283,delivered
+7284,in transit
+7285,in transit
+7286,in transit
+7287,delivered
+7288,delivered
+7289,delivered
+7290,in transit
+7291,in transit
+7292,in transit
+7293,in transit
+7294,in transit
+7295,in transit
+7296,in transit
+7297,delivered
+7298,in transit
+7299,in transit
+7300,in transit
+7301,in transit
+7302,delivered
+7303,delivered
+7304,delivered
+7305,delivered
+7306,in transit
+7307,delivered
+7308,in transit
+7309,in transit
+7310,in transit
+7311,delivered
+7312,delivered
+7313,delivered
+7314,delivered
+7315,in transit
+7316,delivered
+7317,in transit
+7318,in transit
+7319,delivered
+7320,delivered
+7321,in transit
+7322,delivered
+7323,delivered
+7324,in transit
+7325,delivered
+7326,in transit
+7327,in transit
+7328,in transit
+7329,delivered
+7330,in transit
+7331,delivered
+7332,delivered
+7333,delivered
+7334,delivered
+7335,delivered
+7336,delivered
+7337,in transit
+7338,in transit
+7339,in transit
+7340,in transit
+7341,delivered
+7342,delivered
+7343,in transit
+7344,delivered
+7345,in transit
+7346,delivered
+7347,in transit
+7348,delivered
+7349,in transit
+7350,delivered
+7351,delivered
+7352,in transit
+7353,delivered
+7354,delivered
+7355,delivered
+7356,delivered
+7357,in transit
+7358,in transit
+7359,in transit
+7360,delivered
+7361,delivered
+7362,in transit
+7363,in transit
+7364,in transit
+7365,delivered
+7366,delivered
+7367,in transit
+7368,in transit
+7369,delivered
+7370,in transit
+7371,in transit
+7372,in transit
+7373,in transit
+7374,in transit
+7375,in transit
+7376,in transit
+7377,in transit
+7378,in transit
+7379,in transit
+7380,delivered
+7381,in transit
+7382,delivered
+7383,in transit
+7384,in transit
+7385,in transit
+7386,delivered
+7387,in transit
+7388,delivered
+7389,delivered
+7390,in transit
+7391,in transit
+7392,in transit
+7393,in transit
+7394,delivered
+7395,in transit
+7396,in transit
+7397,in transit
+7398,delivered
+7399,delivered
+7400,in transit
+7401,in transit
+7402,in transit
+7403,delivered
+7404,delivered
+7405,in transit
+7406,in transit
+7407,delivered
+7408,in transit
+7409,in transit
+7410,in transit
+7411,delivered
+7412,in transit
+7413,in transit
+7414,delivered
+7415,in transit
+7416,delivered
+7417,delivered
+7418,in transit
+7419,in transit
+7420,delivered
+7421,delivered
+7422,in transit
+7423,in transit
+7424,delivered
+7425,in transit
+7426,in transit
+7427,delivered
+7428,delivered
+7429,in transit
+7430,delivered
+7431,delivered
+7432,delivered
+7433,in transit
+7434,in transit
+7435,in transit
+7436,in transit
+7437,in transit
+7438,delivered
+7439,in transit
+7440,in transit
+7441,delivered
+7442,delivered
+7443,delivered
+7444,in transit
+7445,in transit
+7446,delivered
+7447,delivered
+7448,delivered
+7449,in transit
+7450,in transit
+7451,delivered
+7452,delivered
+7453,delivered
+7454,in transit
+7455,delivered
+7456,delivered
+7457,delivered
+7458,delivered
+7459,delivered
+7460,delivered
+7461,in transit
+7462,in transit
+7463,delivered
+7464,in transit
+7465,in transit
+7466,in transit
+7467,delivered
+7468,in transit
+7469,delivered
+7470,in transit
+7471,delivered
+7472,delivered
+7473,in transit
+7474,delivered
+7475,in transit
+7476,in transit
+7477,in transit
+7478,in transit
+7479,in transit
+7480,delivered
+7481,in transit
+7482,in transit
+7483,delivered
+7484,in transit
+7485,in transit
+7486,delivered
+7487,in transit
+7488,delivered
+7489,delivered
+7490,in transit
+7491,in transit
+7492,in transit
+7493,in transit
+7494,in transit
+7495,delivered
+7496,in transit
+7497,in transit
+7498,in transit
+7499,delivered
+7500,in transit
+7501,delivered
+7502,in transit
+7503,in transit
+7504,delivered
+7505,delivered
+7506,delivered
+7507,delivered
+7508,in transit
+7509,delivered
+7510,in transit
+7511,in transit
+7512,delivered
+7513,in transit
+7514,in transit
+7515,in transit
+7516,in transit
+7517,in transit
+7518,delivered
+7519,in transit
+7520,delivered
+7521,delivered
+7522,delivered
+7523,delivered
+7524,delivered
+7525,delivered
+7526,delivered
+7527,delivered
+7528,in transit
+7529,in transit
+7530,delivered
+7531,delivered
+7532,in transit
+7533,in transit
+7534,delivered
+7535,delivered
+7536,in transit
+7537,delivered
+7538,in transit
+7539,in transit
+7540,delivered
+7541,in transit
+7542,delivered
+7543,in transit
+7544,delivered
+7545,in transit
+7546,in transit
+7547,in transit
+7548,delivered
+7549,delivered
+7550,delivered
+7551,delivered
+7552,delivered
+7553,in transit
+7554,delivered
+7555,delivered
+7556,delivered
+7557,delivered
+7558,in transit
+7559,in transit
+7560,in transit
+7561,in transit
+7562,in transit
+7563,in transit
+7564,in transit
+7565,delivered
+7566,delivered
+7567,in transit
+7568,in transit
+7569,delivered
+7570,in transit
+7571,delivered
+7572,delivered
+7573,delivered
+7574,delivered
+7575,delivered
+7576,in transit
+7577,delivered
+7578,in transit
+7579,in transit
+7580,in transit
+7581,delivered
+7582,delivered
+7583,delivered
+7584,in transit
+7585,in transit
+7586,delivered
+7587,delivered
+7588,in transit
+7589,in transit
+7590,delivered
+7591,delivered
+7592,in transit
+7593,in transit
+7594,in transit
+7595,delivered
+7596,in transit
+7597,in transit
+7598,in transit
+7599,delivered
+7600,delivered
+7601,delivered
+7602,delivered
+7603,delivered
+7604,in transit
+7605,in transit
+7606,delivered
+7607,in transit
+7608,in transit
+7609,in transit
+7610,delivered
+7611,delivered
+7612,in transit
+7613,in transit
+7614,delivered
+7615,delivered
+7616,in transit
+7617,delivered
+7618,delivered
+7619,in transit
+7620,in transit
+7621,in transit
+7622,in transit
+7623,in transit
+7624,in transit
+7625,delivered
+7626,in transit
+7627,delivered
+7628,delivered
+7629,delivered
+7630,delivered
+7631,delivered
+7632,in transit
+7633,in transit
+7634,delivered
+7635,in transit
+7636,in transit
+7637,delivered
+7638,delivered
+7639,in transit
+7640,in transit
+7641,delivered
+7642,delivered
+7643,delivered
+7644,in transit
+7645,delivered
+7646,in transit
+7647,delivered
+7648,delivered
+7649,delivered
+7650,in transit
+7651,in transit
+7652,in transit
+7653,in transit
+7654,in transit
+7655,in transit
+7656,delivered
+7657,delivered
+7658,delivered
+7659,in transit
+7660,delivered
+7661,in transit
+7662,in transit
+7663,delivered
+7664,delivered
+7665,in transit
+7666,delivered
+7667,delivered
+7668,in transit
+7669,in transit
+7670,delivered
+7671,delivered
+7672,delivered
+7673,in transit
+7674,in transit
+7675,in transit
+7676,in transit
+7677,in transit
+7678,delivered
+7679,delivered
+7680,in transit
+7681,in transit
+7682,delivered
+7683,in transit
+7684,delivered
+7685,delivered
+7686,delivered
+7687,delivered
+7688,in transit
+7689,in transit
+7690,delivered
+7691,in transit
+7692,in transit
+7693,delivered
+7694,in transit
+7695,delivered
+7696,delivered
+7697,in transit
+7698,in transit
+7699,delivered
+7700,delivered
+7701,in transit
+7702,in transit
+7703,in transit
+7704,delivered
+7705,delivered
+7706,in transit
+7707,in transit
+7708,in transit
+7709,delivered
+7710,delivered
+7711,delivered
+7712,in transit
+7713,delivered
+7714,delivered
+7715,delivered
+7716,in transit
+7717,delivered
+7718,in transit
+7719,in transit
+7720,delivered
+7721,delivered
+7722,delivered
+7723,delivered
+7724,in transit
+7725,delivered
+7726,delivered
+7727,delivered
+7728,in transit
+7729,in transit
+7730,delivered
+7731,in transit
+7732,delivered
+7733,in transit
+7734,delivered
+7735,in transit
+7736,delivered
+7737,in transit
+7738,delivered
+7739,delivered
+7740,in transit
+7741,in transit
+7742,in transit
+7743,delivered
+7744,delivered
+7745,in transit
+7746,in transit
+7747,in transit
+7748,in transit
+7749,delivered
+7750,in transit
+7751,delivered
+7752,in transit
+7753,delivered
+7754,delivered
+7755,in transit
+7756,delivered
+7757,delivered
+7758,delivered
+7759,delivered
+7760,in transit
+7761,in transit
+7762,delivered
+7763,in transit
+7764,in transit
+7765,in transit
+7766,in transit
+7767,delivered
+7768,in transit
+7769,delivered
+7770,delivered
+7771,delivered
+7772,in transit
+7773,in transit
+7774,in transit
+7775,delivered
+7776,in transit
+7777,delivered
+7778,in transit
+7779,in transit
+7780,delivered
+7781,in transit
+7782,in transit
+7783,delivered
+7784,delivered
+7785,in transit
+7786,in transit
+7787,in transit
+7788,delivered
+7789,in transit
+7790,in transit
+7791,delivered
+7792,in transit
+7793,delivered
+7794,in transit
+7795,delivered
+7796,delivered
+7797,in transit
+7798,delivered
+7799,delivered
+7800,in transit
+7801,delivered
+7802,delivered
+7803,delivered
+7804,delivered
+7805,in transit
+7806,delivered
+7807,in transit
+7808,delivered
+7809,in transit
+7810,in transit
+7811,in transit
+7812,delivered
+7813,in transit
+7814,delivered
+7815,in transit
+7816,in transit
+7817,in transit
+7818,in transit
+7819,delivered
+7820,delivered
+7821,in transit
+7822,delivered
+7823,delivered
+7824,in transit
+7825,in transit
+7826,delivered
+7827,in transit
+7828,in transit
+7829,delivered
+7830,in transit
+7831,delivered
+7832,delivered
+7833,in transit
+7834,delivered
+7835,delivered
+7836,delivered
+7837,delivered
+7838,in transit
+7839,in transit
+7840,in transit
+7841,in transit
+7842,in transit
+7843,in transit
+7844,in transit
+7845,in transit
+7846,delivered
+7847,in transit
+7848,in transit
+7849,delivered
+7850,in transit
+7851,in transit
+7852,delivered
+7853,delivered
+7854,in transit
+7855,delivered
+7856,delivered
+7857,delivered
+7858,delivered
+7859,in transit
+7860,in transit
+7861,in transit
+7862,in transit
+7863,in transit
+7864,delivered
+7865,delivered
+7866,delivered
+7867,in transit
+7868,in transit
+7869,delivered
+7870,delivered
+7871,in transit
+7872,in transit
+7873,in transit
+7874,in transit
+7875,delivered
+7876,delivered
+7877,delivered
+7878,in transit
+7879,delivered
+7880,delivered
+7881,delivered
+7882,in transit
+7883,in transit
+7884,in transit
+7885,delivered
+7886,delivered
+7887,delivered
+7888,delivered
+7889,in transit
+7890,in transit
+7891,in transit
+7892,in transit
+7893,in transit
+7894,in transit
+7895,delivered
+7896,delivered
+7897,delivered
+7898,delivered
+7899,in transit
+7900,delivered
+7901,delivered
+7902,in transit
+7903,in transit
+7904,delivered
+7905,delivered
+7906,delivered
+7907,in transit
+7908,delivered
+7909,in transit
+7910,delivered
+7911,in transit
+7912,delivered
+7913,delivered
+7914,delivered
+7915,in transit
+7916,in transit
+7917,in transit
+7918,delivered
+7919,in transit
+7920,in transit
+7921,in transit
+7922,delivered
+7923,in transit
+7924,delivered
+7925,delivered
+7926,delivered
+7927,in transit
+7928,delivered
+7929,delivered
+7930,delivered
+7931,delivered
+7932,in transit
+7933,in transit
+7934,in transit
+7935,in transit
+7936,in transit
+7937,delivered
+7938,delivered
+7939,delivered
+7940,delivered
+7941,in transit
+7942,in transit
+7943,delivered
+7944,delivered
+7945,delivered
+7946,in transit
+7947,delivered
+7948,delivered
+7949,delivered
+7950,in transit
+7951,in transit
+7952,delivered
+7953,in transit
+7954,delivered
+7955,in transit
+7956,delivered
+7957,delivered
+7958,in transit
+7959,in transit
+7960,in transit
+7961,in transit
+7962,in transit
+7963,in transit
+7964,in transit
+7965,in transit
+7966,in transit
+7967,in transit
+7968,in transit
+7969,in transit
+7970,delivered
+7971,in transit
+7972,in transit
+7973,delivered
+7974,delivered
+7975,in transit
+7976,in transit
+7977,in transit
+7978,in transit
+7979,delivered
+7980,delivered
+7981,delivered
+7982,in transit
+7983,in transit
+7984,in transit
+7985,in transit
+7986,in transit
+7987,in transit
+7988,in transit
+7989,delivered
+7990,in transit
+7991,in transit
+7992,in transit
+7993,in transit
+7994,delivered
+7995,in transit
+7996,delivered
+7997,in transit
+7998,in transit
+7999,delivered
+8000,in transit
+8001,delivered
+8002,delivered
+8003,delivered
+8004,in transit
+8005,in transit
+8006,in transit
+8007,delivered
+8008,delivered
+8009,delivered
+8010,in transit
+8011,in transit
+8012,in transit
+8013,delivered
+8014,delivered
+8015,in transit
+8016,delivered
+8017,in transit
+8018,in transit
+8019,in transit
+8020,in transit
+8021,in transit
+8022,delivered
+8023,delivered
+8024,in transit
+8025,delivered
+8026,in transit
+8027,in transit
+8028,in transit
+8029,delivered
+8030,in transit
+8031,in transit
+8032,in transit
+8033,in transit
+8034,in transit
+8035,in transit
+8036,delivered
+8037,in transit
+8038,in transit
+8039,in transit
+8040,delivered
+8041,in transit
+8042,delivered
+8043,delivered
+8044,in transit
+8045,delivered
+8046,delivered
+8047,delivered
+8048,in transit
+8049,in transit
+8050,in transit
+8051,delivered
+8052,in transit
+8053,in transit
+8054,delivered
+8055,delivered
+8056,delivered
+8057,delivered
+8058,delivered
+8059,delivered
+8060,delivered
+8061,delivered
+8062,delivered
+8063,in transit
+8064,delivered
+8065,in transit
+8066,delivered
+8067,delivered
+8068,delivered
+8069,in transit
+8070,in transit
+8071,in transit
+8072,in transit
+8073,delivered
+8074,delivered
+8075,in transit
+8076,delivered
+8077,in transit
+8078,delivered
+8079,in transit
+8080,delivered
+8081,delivered
+8082,delivered
+8083,delivered
+8084,in transit
+8085,in transit
+8086,delivered
+8087,delivered
+8088,delivered
+8089,in transit
+8090,delivered
+8091,in transit
+8092,in transit
+8093,in transit
+8094,in transit
+8095,delivered
+8096,in transit
+8097,in transit
+8098,in transit
+8099,delivered
+8100,in transit
+8101,in transit
+8102,delivered
+8103,in transit
+8104,in transit
+8105,in transit
+8106,delivered
+8107,delivered
+8108,in transit
+8109,in transit
+8110,delivered
+8111,in transit
+8112,delivered
+8113,delivered
+8114,delivered
+8115,in transit
+8116,in transit
+8117,in transit
+8118,in transit
+8119,delivered
+8120,in transit
+8121,in transit
+8122,delivered
+8123,delivered
+8124,in transit
+8125,delivered
+8126,in transit
+8127,delivered
+8128,in transit
+8129,delivered
+8130,delivered
+8131,delivered
+8132,in transit
+8133,in transit
+8134,in transit
+8135,delivered
+8136,delivered
+8137,in transit
+8138,delivered
+8139,in transit
+8140,delivered
+8141,in transit
+8142,in transit
+8143,in transit
+8144,in transit
+8145,in transit
+8146,in transit
+8147,delivered
+8148,delivered
+8149,in transit
+8150,delivered
+8151,in transit
+8152,in transit
+8153,delivered
+8154,in transit
+8155,in transit
+8156,delivered
+8157,delivered
+8158,in transit
+8159,in transit
+8160,in transit
+8161,in transit
+8162,delivered
+8163,delivered
+8164,in transit
+8165,in transit
+8166,in transit
+8167,delivered
+8168,delivered
+8169,in transit
+8170,in transit
+8171,in transit
+8172,in transit
+8173,delivered
+8174,delivered
+8175,in transit
+8176,delivered
+8177,delivered
+8178,in transit
+8179,delivered
+8180,in transit
+8181,in transit
+8182,in transit
+8183,delivered
+8184,in transit
+8185,delivered
+8186,in transit
+8187,in transit
+8188,in transit
+8189,delivered
+8190,in transit
+8191,in transit
+8192,delivered
+8193,delivered
+8194,delivered
+8195,delivered
+8196,in transit
+8197,delivered
+8198,in transit
+8199,in transit
+8200,delivered
+8201,delivered
+8202,delivered
+8203,delivered
+8204,delivered
+8205,in transit
+8206,delivered
+8207,delivered
+8208,delivered
+8209,delivered
+8210,in transit
+8211,delivered
+8212,in transit
+8213,delivered
+8214,delivered
+8215,delivered
+8216,in transit
+8217,in transit
+8218,delivered
+8219,in transit
+8220,delivered
+8221,in transit
+8222,in transit
+8223,in transit
+8224,in transit
+8225,delivered
+8226,in transit
+8227,delivered
+8228,delivered
+8229,in transit
+8230,in transit
+8231,in transit
+8232,in transit
+8233,delivered
+8234,delivered
+8235,in transit
+8236,in transit
+8237,in transit
+8238,in transit
+8239,delivered
+8240,delivered
+8241,delivered
+8242,in transit
+8243,in transit
+8244,in transit
+8245,delivered
+8246,delivered
+8247,delivered
+8248,in transit
+8249,delivered
+8250,in transit
+8251,delivered
+8252,in transit
+8253,delivered
+8254,in transit
+8255,in transit
+8256,in transit
+8257,delivered
+8258,in transit
+8259,delivered
+8260,delivered
+8261,delivered
+8262,delivered
+8263,delivered
+8264,delivered
+8265,delivered
+8266,delivered
+8267,delivered
+8268,in transit
+8269,delivered
+8270,delivered
+8271,in transit
+8272,in transit
+8273,in transit
+8274,in transit
+8275,in transit
+8276,delivered
+8277,in transit
+8278,delivered
+8279,delivered
+8280,in transit
+8281,delivered
+8282,delivered
+8283,delivered
+8284,in transit
+8285,delivered
+8286,delivered
+8287,in transit
+8288,delivered
+8289,delivered
+8290,in transit
+8291,in transit
+8292,delivered
+8293,in transit
+8294,delivered
+8295,in transit
+8296,delivered
+8297,in transit
+8298,in transit
+8299,delivered
+8300,delivered
+8301,delivered
+8302,in transit
+8303,delivered
+8304,delivered
+8305,delivered
+8306,in transit
+8307,delivered
+8308,in transit
+8309,delivered
+8310,delivered
+8311,in transit
+8312,in transit
+8313,delivered
+8314,in transit
+8315,in transit
+8316,in transit
+8317,delivered
+8318,in transit
+8319,delivered
+8320,in transit
+8321,in transit
+8322,delivered
+8323,in transit
+8324,delivered
+8325,in transit
+8326,delivered
+8327,in transit
+8328,in transit
+8329,in transit
+8330,in transit
+8331,delivered
+8332,in transit
+8333,delivered
+8334,in transit
+8335,in transit
+8336,in transit
+8337,in transit
+8338,in transit
+8339,delivered
+8340,delivered
+8341,in transit
+8342,in transit
+8343,delivered
+8344,delivered
+8345,delivered
+8346,in transit
+8347,in transit
+8348,delivered
+8349,in transit
+8350,in transit
+8351,in transit
+8352,delivered
+8353,delivered
+8354,delivered
+8355,delivered
+8356,in transit
+8357,in transit
+8358,in transit
+8359,delivered
+8360,in transit
+8361,in transit
+8362,in transit
+8363,delivered
+8364,in transit
+8365,delivered
+8366,delivered
+8367,delivered
+8368,in transit
+8369,in transit
+8370,delivered
+8371,in transit
+8372,in transit
+8373,delivered
+8374,in transit
+8375,in transit
+8376,delivered
+8377,in transit
+8378,in transit
+8379,delivered
+8380,in transit
+8381,delivered
+8382,delivered
+8383,delivered
+8384,delivered
+8385,delivered
+8386,in transit
+8387,in transit
+8388,in transit
+8389,delivered
+8390,in transit
+8391,delivered
+8392,delivered
+8393,delivered
+8394,in transit
+8395,in transit
+8396,delivered
+8397,in transit
+8398,in transit
+8399,in transit
+8400,in transit
+8401,in transit
+8402,in transit
+8403,delivered
+8404,in transit
+8405,delivered
+8406,in transit
+8407,delivered
+8408,in transit
+8409,delivered
+8410,delivered
+8411,in transit
+8412,delivered
+8413,delivered
+8414,in transit
+8415,delivered
+8416,in transit
+8417,delivered
+8418,in transit
+8419,in transit
+8420,delivered
+8421,in transit
+8422,in transit
+8423,delivered
+8424,delivered
+8425,in transit
+8426,delivered
+8427,delivered
+8428,delivered
+8429,in transit
+8430,delivered
+8431,delivered
+8432,delivered
+8433,delivered
+8434,in transit
+8435,delivered
+8436,in transit
+8437,delivered
+8438,in transit
+8439,in transit
+8440,delivered
+8441,delivered
+8442,in transit
+8443,in transit
+8444,in transit
+8445,in transit
+8446,in transit
+8447,delivered
+8448,in transit
+8449,in transit
+8450,in transit
+8451,delivered
+8452,in transit
+8453,in transit
+8454,delivered
+8455,delivered
+8456,in transit
+8457,in transit
+8458,delivered
+8459,delivered
+8460,delivered
+8461,delivered
+8462,delivered
+8463,delivered
+8464,delivered
+8465,delivered
+8466,delivered
+8467,delivered
+8468,in transit
+8469,in transit
+8470,delivered
+8471,in transit
+8472,in transit
+8473,in transit
+8474,in transit
+8475,delivered
+8476,delivered
+8477,in transit
+8478,in transit
+8479,delivered
+8480,delivered
+8481,in transit
+8482,delivered
+8483,in transit
+8484,in transit
+8485,in transit
+8486,in transit
+8487,in transit
+8488,delivered
+8489,in transit
+8490,in transit
+8491,delivered
+8492,in transit
+8493,in transit
+8494,in transit
+8495,delivered
+8496,in transit
+8497,delivered
+8498,in transit
+8499,in transit
+8500,delivered
+8501,in transit
+8502,delivered
+8503,delivered
+8504,in transit
+8505,delivered
+8506,in transit
+8507,delivered
+8508,in transit
+8509,delivered
+8510,in transit
+8511,delivered
+8512,delivered
+8513,delivered
+8514,in transit
+8515,delivered
+8516,in transit
+8517,in transit
+8518,in transit
+8519,in transit
+8520,delivered
+8521,in transit
+8522,delivered
+8523,delivered
+8524,delivered
+8525,in transit
+8526,delivered
+8527,in transit
+8528,delivered
+8529,in transit
+8530,in transit
+8531,delivered
+8532,delivered
+8533,delivered
+8534,delivered
+8535,in transit
+8536,in transit
+8537,delivered
+8538,in transit
+8539,delivered
+8540,delivered
+8541,in transit
+8542,in transit
+8543,in transit
+8544,delivered
+8545,delivered
+8546,in transit
+8547,delivered
+8548,in transit
+8549,in transit
+8550,in transit
+8551,in transit
+8552,delivered
+8553,delivered
+8554,delivered
+8555,in transit
+8556,delivered
+8557,in transit
+8558,in transit
+8559,delivered
+8560,in transit
+8561,in transit
+8562,delivered
+8563,in transit
+8564,delivered
+8565,delivered
+8566,delivered
+8567,in transit
+8568,in transit
+8569,delivered
+8570,in transit
+8571,delivered
+8572,delivered
+8573,delivered
+8574,delivered
+8575,delivered
+8576,delivered
+8577,delivered
+8578,delivered
+8579,delivered
+8580,in transit
+8581,delivered
+8582,in transit
+8583,in transit
+8584,delivered
+8585,delivered
+8586,in transit
+8587,in transit
+8588,delivered
+8589,in transit
+8590,in transit
+8591,in transit
+8592,delivered
+8593,in transit
+8594,delivered
+8595,delivered
+8596,in transit
+8597,in transit
+8598,delivered
+8599,delivered
+8600,in transit
+8601,delivered
+8602,in transit
+8603,in transit
+8604,delivered
+8605,in transit
+8606,in transit
+8607,in transit
+8608,in transit
+8609,in transit
+8610,in transit
+8611,in transit
+8612,in transit
+8613,delivered
+8614,delivered
+8615,delivered
+8616,delivered
+8617,in transit
+8618,delivered
+8619,delivered
+8620,in transit
+8621,in transit
+8622,in transit
+8623,in transit
+8624,in transit
+8625,in transit
+8626,in transit
+8627,in transit
+8628,delivered
+8629,in transit
+8630,delivered
+8631,delivered
+8632,delivered
+8633,delivered
+8634,delivered
+8635,in transit
+8636,in transit
+8637,in transit
+8638,in transit
+8639,in transit
+8640,delivered
+8641,delivered
+8642,in transit
+8643,in transit
+8644,in transit
+8645,delivered
+8646,in transit
+8647,delivered
+8648,in transit
+8649,in transit
+8650,delivered
+8651,in transit
+8652,in transit
+8653,delivered
+8654,in transit
+8655,delivered
+8656,in transit
+8657,delivered
+8658,in transit
+8659,in transit
+8660,delivered
+8661,in transit
+8662,delivered
+8663,in transit
+8664,delivered
+8665,in transit
+8666,delivered
+8667,delivered
+8668,in transit
+8669,delivered
+8670,in transit
+8671,delivered
+8672,in transit
+8673,in transit
+8674,in transit
+8675,in transit
+8676,in transit
+8677,delivered
+8678,in transit
+8679,in transit
+8680,delivered
+8681,delivered
+8682,delivered
+8683,in transit
+8684,delivered
+8685,in transit
+8686,in transit
+8687,in transit
+8688,delivered
+8689,delivered
+8690,delivered
+8691,in transit
+8692,delivered
+8693,in transit
+8694,in transit
+8695,in transit
+8696,delivered
+8697,in transit
+8698,delivered
+8699,in transit
+8700,in transit
+8701,in transit
+8702,in transit
+8703,in transit
+8704,delivered
+8705,delivered
+8706,delivered
+8707,delivered
+8708,in transit
+8709,in transit
+8710,in transit
+8711,in transit
+8712,delivered
+8713,delivered
+8714,in transit
+8715,delivered
+8716,delivered
+8717,delivered
+8718,in transit
+8719,in transit
+8720,in transit
+8721,delivered
+8722,delivered
+8723,delivered
+8724,delivered
+8725,in transit
+8726,delivered
+8727,delivered
+8728,in transit
+8729,delivered
+8730,delivered
+8731,in transit
+8732,delivered
+8733,in transit
+8734,in transit
+8735,in transit
+8736,delivered
+8737,in transit
+8738,delivered
+8739,delivered
+8740,delivered
+8741,in transit
+8742,in transit
+8743,delivered
+8744,in transit
+8745,delivered
+8746,in transit
+8747,delivered
+8748,in transit
+8749,in transit
+8750,in transit
+8751,delivered
+8752,delivered
+8753,delivered
+8754,delivered
+8755,delivered
+8756,in transit
+8757,delivered
+8758,delivered
+8759,delivered
+8760,delivered
+8761,in transit
+8762,delivered
+8763,in transit
+8764,delivered
+8765,in transit
+8766,delivered
+8767,delivered
+8768,delivered
+8769,in transit
+8770,delivered
+8771,delivered
+8772,in transit
+8773,in transit
+8774,in transit
+8775,delivered
+8776,in transit
+8777,delivered
+8778,in transit
+8779,delivered
+8780,in transit
+8781,delivered
+8782,delivered
+8783,delivered
+8784,in transit
+8785,in transit
+8786,delivered
+8787,in transit
+8788,delivered
+8789,in transit
+8790,in transit
+8791,in transit
+8792,in transit
+8793,in transit
+8794,in transit
+8795,delivered
+8796,in transit
+8797,in transit
+8798,delivered
+8799,in transit
+8800,in transit
+8801,in transit
+8802,delivered
+8803,delivered
+8804,delivered
+8805,in transit
+8806,delivered
+8807,in transit
+8808,delivered
+8809,delivered
+8810,in transit
+8811,delivered
+8812,delivered
+8813,delivered
+8814,in transit
+8815,delivered
+8816,delivered
+8817,in transit
+8818,delivered
+8819,in transit
+8820,in transit
+8821,in transit
+8822,delivered
+8823,in transit
+8824,delivered
+8825,in transit
+8826,in transit
+8827,in transit
+8828,in transit
+8829,delivered
+8830,in transit
+8831,delivered
+8832,delivered
+8833,in transit
+8834,delivered
+8835,in transit
+8836,delivered
+8837,delivered
+8838,in transit
+8839,delivered
+8840,delivered
+8841,in transit
+8842,delivered
+8843,in transit
+8844,delivered
+8845,in transit
+8846,delivered
+8847,delivered
+8848,delivered
+8849,in transit
+8850,delivered
+8851,delivered
+8852,in transit
+8853,delivered
+8854,in transit
+8855,delivered
+8856,in transit
+8857,delivered
+8858,delivered
+8859,in transit
+8860,delivered
+8861,delivered
+8862,delivered
+8863,delivered
+8864,in transit
+8865,in transit
+8866,in transit
+8867,delivered
+8868,in transit
+8869,delivered
+8870,delivered
+8871,delivered
+8872,in transit
+8873,delivered
+8874,in transit
+8875,in transit
+8876,in transit
+8877,in transit
+8878,in transit
+8879,delivered
+8880,delivered
+8881,in transit
+8882,delivered
+8883,in transit
+8884,delivered
+8885,delivered
+8886,in transit
+8887,in transit
+8888,delivered
+8889,in transit
+8890,in transit
+8891,delivered
+8892,delivered
+8893,delivered
+8894,in transit
+8895,in transit
+8896,in transit
+8897,delivered
+8898,delivered
+8899,in transit
+8900,in transit
+8901,delivered
+8902,delivered
+8903,delivered
+8904,in transit
+8905,in transit
+8906,in transit
+8907,delivered
+8908,delivered
+8909,in transit
+8910,in transit
+8911,in transit
+8912,delivered
+8913,in transit
+8914,in transit
+8915,in transit
+8916,delivered
+8917,delivered
+8918,in transit
+8919,delivered
+8920,in transit
+8921,in transit
+8922,in transit
+8923,in transit
+8924,delivered
+8925,delivered
+8926,delivered
+8927,in transit
+8928,delivered
+8929,delivered
+8930,in transit
+8931,delivered
+8932,delivered
+8933,in transit
+8934,in transit
+8935,delivered
+8936,delivered
+8937,in transit
+8938,delivered
+8939,in transit
+8940,delivered
+8941,delivered
+8942,delivered
+8943,delivered
+8944,in transit
+8945,delivered
+8946,in transit
+8947,in transit
+8948,delivered
+8949,delivered
+8950,in transit
+8951,delivered
+8952,delivered
+8953,in transit
+8954,in transit
+8955,in transit
+8956,delivered
+8957,delivered
+8958,in transit
+8959,delivered
+8960,in transit
+8961,delivered
+8962,delivered
+8963,in transit
+8964,in transit
+8965,in transit
+8966,in transit
+8967,delivered
+8968,in transit
+8969,in transit
+8970,delivered
+8971,delivered
+8972,in transit
+8973,delivered
+8974,delivered
+8975,in transit
+8976,in transit
+8977,in transit
+8978,delivered
+8979,in transit
+8980,delivered
+8981,delivered
+8982,in transit
+8983,in transit
+8984,in transit
+8985,delivered
+8986,in transit
+8987,delivered
+8988,in transit
+8989,in transit
+8990,delivered
+8991,in transit
+8992,in transit
+8993,delivered
+8994,in transit
+8995,in transit
+8996,in transit
+8997,in transit
+8998,delivered
+8999,delivered
+9000,delivered
+9001,delivered
+9002,in transit
+9003,delivered
+9004,delivered
+9005,in transit
+9006,delivered
+9007,delivered
+9008,in transit
+9009,delivered
+9010,in transit
+9011,delivered
+9012,in transit
+9013,in transit
+9014,delivered
+9015,in transit
+9016,in transit
+9017,in transit
+9018,in transit
+9019,delivered
+9020,in transit
+9021,in transit
+9022,in transit
+9023,in transit
+9024,delivered
+9025,in transit
+9026,in transit
+9027,in transit
+9028,delivered
+9029,in transit
+9030,delivered
+9031,in transit
+9032,in transit
+9033,delivered
+9034,in transit
+9035,delivered
+9036,in transit
+9037,in transit
+9038,delivered
+9039,delivered
+9040,in transit
+9041,delivered
+9042,delivered
+9043,in transit
+9044,in transit
+9045,in transit
+9046,in transit
+9047,in transit
+9048,delivered
+9049,delivered
+9050,in transit
+9051,delivered
+9052,in transit
+9053,in transit
+9054,in transit
+9055,delivered
+9056,in transit
+9057,delivered
+9058,delivered
+9059,delivered
+9060,delivered
+9061,in transit
+9062,in transit
+9063,in transit
+9064,in transit
+9065,delivered
+9066,delivered
+9067,delivered
+9068,delivered
+9069,in transit
+9070,delivered
+9071,in transit
+9072,delivered
+9073,in transit
+9074,delivered
+9075,in transit
+9076,in transit
+9077,in transit
+9078,in transit
+9079,delivered
+9080,delivered
+9081,in transit
+9082,delivered
+9083,delivered
+9084,delivered
+9085,in transit
+9086,in transit
+9087,delivered
+9088,delivered
+9089,delivered
+9090,delivered
+9091,in transit
+9092,delivered
+9093,in transit
+9094,in transit
+9095,delivered
+9096,in transit
+9097,delivered
+9098,in transit
+9099,delivered
+9100,delivered
+9101,delivered
+9102,in transit
+9103,delivered
+9104,delivered
+9105,in transit
+9106,in transit
+9107,in transit
+9108,delivered
+9109,in transit
+9110,delivered
+9111,delivered
+9112,in transit
+9113,delivered
+9114,delivered
+9115,delivered
+9116,in transit
+9117,in transit
+9118,delivered
+9119,delivered
+9120,in transit
+9121,delivered
+9122,in transit
+9123,in transit
+9124,in transit
+9125,in transit
+9126,in transit
+9127,in transit
+9128,in transit
+9129,delivered
+9130,in transit
+9131,delivered
+9132,delivered
+9133,in transit
+9134,in transit
+9135,in transit
+9136,delivered
+9137,delivered
+9138,in transit
+9139,in transit
+9140,delivered
+9141,delivered
+9142,in transit
+9143,delivered
+9144,delivered
+9145,delivered
+9146,delivered
+9147,delivered
+9148,in transit
+9149,delivered
+9150,in transit
+9151,delivered
+9152,delivered
+9153,in transit
+9154,delivered
+9155,in transit
+9156,in transit
+9157,delivered
+9158,delivered
+9159,in transit
+9160,in transit
+9161,delivered
+9162,delivered
+9163,in transit
+9164,in transit
+9165,in transit
+9166,in transit
+9167,in transit
+9168,in transit
+9169,delivered
+9170,in transit
+9171,in transit
+9172,delivered
+9173,in transit
+9174,in transit
+9175,in transit
+9176,in transit
+9177,in transit
+9178,in transit
+9179,in transit
+9180,in transit
+9181,delivered
+9182,in transit
+9183,in transit
+9184,in transit
+9185,delivered
+9186,in transit
+9187,delivered
+9188,delivered
+9189,in transit
+9190,delivered
+9191,delivered
+9192,delivered
+9193,in transit
+9194,in transit
+9195,in transit
+9196,delivered
+9197,delivered
+9198,in transit
+9199,delivered
+9200,in transit
+9201,delivered
+9202,in transit
+9203,in transit
+9204,in transit
+9205,in transit
+9206,in transit
+9207,delivered
+9208,delivered
+9209,in transit
+9210,delivered
+9211,delivered
+9212,in transit
+9213,in transit
+9214,in transit
+9215,in transit
+9216,in transit
+9217,in transit
+9218,delivered
+9219,delivered
+9220,in transit
+9221,delivered
+9222,delivered
+9223,in transit
+9224,in transit
+9225,in transit
+9226,delivered
+9227,in transit
+9228,in transit
+9229,delivered
+9230,in transit
+9231,in transit
+9232,in transit
+9233,in transit
+9234,delivered
+9235,in transit
+9236,in transit
+9237,in transit
+9238,in transit
+9239,delivered
+9240,in transit
+9241,delivered
+9242,delivered
+9243,in transit
+9244,delivered
+9245,delivered
+9246,delivered
+9247,delivered
+9248,in transit
+9249,in transit
+9250,in transit
+9251,delivered
+9252,delivered
+9253,in transit
+9254,delivered
+9255,in transit
+9256,in transit
+9257,delivered
+9258,delivered
+9259,delivered
+9260,in transit
+9261,in transit
+9262,delivered
+9263,in transit
+9264,delivered
+9265,delivered
+9266,delivered
+9267,in transit
+9268,in transit
+9269,in transit
+9270,delivered
+9271,delivered
+9272,in transit
+9273,in transit
+9274,in transit
+9275,delivered
+9276,in transit
+9277,delivered
+9278,in transit
+9279,delivered
+9280,in transit
+9281,in transit
+9282,in transit
+9283,in transit
+9284,in transit
+9285,in transit
+9286,delivered
+9287,in transit
+9288,in transit
+9289,delivered
+9290,delivered
+9291,in transit
+9292,delivered
+9293,in transit
+9294,delivered
+9295,in transit
+9296,in transit
+9297,delivered
+9298,in transit
+9299,delivered
+9300,in transit
+9301,in transit
+9302,delivered
+9303,in transit
+9304,in transit
+9305,in transit
+9306,delivered
+9307,delivered
+9308,delivered
+9309,delivered
+9310,delivered
+9311,delivered
+9312,delivered
+9313,delivered
+9314,delivered
+9315,in transit
+9316,delivered
+9317,in transit
+9318,in transit
+9319,in transit
+9320,delivered
+9321,delivered
+9322,in transit
+9323,in transit
+9324,in transit
+9325,delivered
+9326,delivered
+9327,in transit
+9328,in transit
+9329,delivered
+9330,in transit
+9331,in transit
+9332,delivered
+9333,delivered
+9334,delivered
+9335,delivered
+9336,in transit
+9337,delivered
+9338,in transit
+9339,in transit
+9340,delivered
+9341,in transit
+9342,in transit
+9343,delivered
+9344,delivered
+9345,in transit
+9346,in transit
+9347,delivered
+9348,delivered
+9349,in transit
+9350,in transit
+9351,in transit
+9352,delivered
+9353,in transit
+9354,in transit
+9355,in transit
+9356,in transit
+9357,in transit
+9358,delivered
+9359,in transit
+9360,in transit
+9361,in transit
+9362,in transit
+9363,delivered
+9364,delivered
+9365,delivered
+9366,delivered
+9367,in transit
+9368,in transit
+9369,in transit
+9370,delivered
+9371,delivered
+9372,in transit
+9373,in transit
+9374,delivered
+9375,delivered
+9376,delivered
+9377,delivered
+9378,in transit
+9379,in transit
+9380,in transit
+9381,delivered
+9382,delivered
+9383,delivered
+9384,delivered
+9385,in transit
+9386,delivered
+9387,in transit
+9388,delivered
+9389,delivered
+9390,in transit
+9391,in transit
+9392,delivered
+9393,in transit
+9394,delivered
+9395,in transit
+9396,in transit
+9397,delivered
+9398,in transit
+9399,in transit
+9400,delivered
+9401,delivered
+9402,in transit
+9403,delivered
+9404,delivered
+9405,in transit
+9406,in transit
+9407,delivered
+9408,delivered
+9409,in transit
+9410,in transit
+9411,delivered
+9412,in transit
+9413,in transit
+9414,delivered
+9415,in transit
+9416,delivered
+9417,delivered
+9418,in transit
+9419,in transit
+9420,delivered
+9421,delivered
+9422,delivered
+9423,in transit
+9424,in transit
+9425,in transit
+9426,in transit
+9427,in transit
+9428,delivered
+9429,delivered
+9430,in transit
+9431,in transit
+9432,in transit
+9433,in transit
+9434,in transit
+9435,delivered
+9436,in transit
+9437,delivered
+9438,delivered
+9439,delivered
+9440,delivered
+9441,in transit
+9442,in transit
+9443,delivered
+9444,in transit
+9445,delivered
+9446,in transit
+9447,delivered
+9448,delivered
+9449,delivered
+9450,delivered
+9451,delivered
+9452,in transit
+9453,delivered
+9454,in transit
+9455,delivered
+9456,delivered
+9457,delivered
+9458,in transit
+9459,delivered
+9460,in transit
+9461,in transit
+9462,in transit
+9463,delivered
+9464,in transit
+9465,delivered
+9466,delivered
+9467,delivered
+9468,in transit
+9469,delivered
+9470,delivered
+9471,in transit
+9472,delivered
+9473,in transit
+9474,in transit
+9475,delivered
+9476,delivered
+9477,in transit
+9478,delivered
+9479,in transit
+9480,in transit
+9481,in transit
+9482,delivered
+9483,delivered
+9484,delivered
+9485,delivered
+9486,in transit
+9487,delivered
+9488,delivered
+9489,delivered
+9490,delivered
+9491,in transit
+9492,in transit
+9493,in transit
+9494,delivered
+9495,delivered
+9496,delivered
+9497,delivered
+9498,in transit
+9499,delivered
+9500,delivered
+9501,in transit
+9502,in transit
+9503,in transit
+9504,delivered
+9505,delivered
+9506,in transit
+9507,in transit
+9508,in transit
+9509,in transit
+9510,in transit
+9511,delivered
+9512,delivered
+9513,in transit
+9514,delivered
+9515,in transit
+9516,delivered
+9517,in transit
+9518,delivered
+9519,delivered
+9520,delivered
+9521,delivered
+9522,delivered
+9523,delivered
+9524,delivered
+9525,delivered
+9526,in transit
+9527,in transit
+9528,in transit
+9529,delivered
+9530,delivered
+9531,in transit
+9532,in transit
+9533,in transit
+9534,delivered
+9535,in transit
+9536,in transit
+9537,delivered
+9538,in transit
+9539,in transit
+9540,delivered
+9541,delivered
+9542,in transit
+9543,delivered
+9544,in transit
+9545,delivered
+9546,in transit
+9547,delivered
+9548,delivered
+9549,delivered
+9550,delivered
+9551,delivered
+9552,in transit
+9553,delivered
+9554,in transit
+9555,in transit
+9556,in transit
+9557,in transit
+9558,in transit
+9559,in transit
+9560,delivered
+9561,in transit
+9562,in transit
+9563,delivered
+9564,in transit
+9565,in transit
+9566,delivered
+9567,in transit
+9568,in transit
+9569,in transit
+9570,in transit
+9571,in transit
+9572,in transit
+9573,in transit
+9574,delivered
+9575,delivered
+9576,delivered
+9577,in transit
+9578,in transit
+9579,in transit
+9580,in transit
+9581,in transit
+9582,in transit
+9583,in transit
+9584,delivered
+9585,delivered
+9586,delivered
+9587,in transit
+9588,in transit
+9589,delivered
+9590,in transit
+9591,delivered
+9592,in transit
+9593,in transit
+9594,delivered
+9595,delivered
+9596,in transit
+9597,in transit
+9598,delivered
+9599,in transit
+9600,in transit
+9601,in transit
+9602,delivered
+9603,in transit
+9604,in transit
+9605,delivered
+9606,delivered
+9607,in transit
+9608,delivered
+9609,in transit
+9610,delivered
+9611,in transit
+9612,in transit
+9613,in transit
+9614,in transit
+9615,in transit
+9616,delivered
+9617,in transit
+9618,delivered
+9619,delivered
+9620,in transit
+9621,delivered
+9622,in transit
+9623,in transit
+9624,delivered
+9625,in transit
+9626,delivered
+9627,in transit
+9628,delivered
+9629,delivered
+9630,in transit
+9631,delivered
+9632,in transit
+9633,delivered
+9634,delivered
+9635,in transit
+9636,delivered
+9637,in transit
+9638,delivered
+9639,in transit
+9640,in transit
+9641,in transit
+9642,in transit
+9643,in transit
+9644,delivered
+9645,in transit
+9646,delivered
+9647,in transit
+9648,delivered
+9649,delivered
+9650,in transit
+9651,delivered
+9652,delivered
+9653,delivered
+9654,in transit
+9655,in transit
+9656,delivered
+9657,delivered
+9658,delivered
+9659,delivered
+9660,in transit
+9661,delivered
+9662,delivered
+9663,in transit
+9664,in transit
+9665,in transit
+9666,delivered
+9667,in transit
+9668,in transit
+9669,delivered
+9670,delivered
+9671,delivered
+9672,delivered
+9673,in transit
+9674,delivered
+9675,delivered
+9676,delivered
+9677,in transit
+9678,in transit
+9679,delivered
+9680,delivered
+9681,in transit
+9682,delivered
+9683,delivered
+9684,in transit
+9685,in transit
+9686,in transit
+9687,delivered
+9688,delivered
+9689,in transit
+9690,delivered
+9691,in transit
+9692,delivered
+9693,in transit
+9694,in transit
+9695,in transit
+9696,in transit
+9697,delivered
+9698,delivered
+9699,in transit
+9700,in transit
+9701,in transit
+9702,delivered
+9703,in transit
+9704,in transit
+9705,delivered
+9706,in transit
+9707,delivered
+9708,in transit
+9709,delivered
+9710,in transit
+9711,in transit
+9712,in transit
+9713,delivered
+9714,delivered
+9715,in transit
+9716,in transit
+9717,in transit
+9718,in transit
+9719,in transit
+9720,delivered
+9721,in transit
+9722,delivered
+9723,delivered
+9724,delivered
+9725,delivered
+9726,in transit
+9727,delivered
+9728,delivered
+9729,delivered
+9730,in transit
+9731,delivered
+9732,delivered
+9733,delivered
+9734,in transit
+9735,in transit
+9736,in transit
+9737,in transit
+9738,delivered
+9739,delivered
+9740,in transit
+9741,in transit
+9742,in transit
+9743,in transit
+9744,delivered
+9745,delivered
+9746,in transit
+9747,in transit
+9748,delivered
+9749,in transit
+9750,in transit
+9751,in transit
+9752,delivered
+9753,delivered
+9754,in transit
+9755,delivered
+9756,in transit
+9757,delivered
+9758,in transit
+9759,delivered
+9760,delivered
+9761,in transit
+9762,in transit
+9763,delivered
+9764,delivered
+9765,in transit
+9766,in transit
+9767,delivered
+9768,delivered
+9769,in transit
+9770,in transit
+9771,delivered
+9772,in transit
+9773,delivered
+9774,delivered
+9775,delivered
+9776,delivered
+9777,in transit
+9778,delivered
+9779,delivered
+9780,in transit
+9781,in transit
+9782,delivered
+9783,in transit
+9784,delivered
+9785,in transit
+9786,in transit
+9787,in transit
+9788,delivered
+9789,delivered
+9790,in transit
+9791,in transit
+9792,delivered
+9793,in transit
+9794,delivered
+9795,in transit
+9796,delivered
+9797,in transit
+9798,delivered
+9799,in transit
+9800,delivered
+9801,delivered
+9802,delivered
+9803,in transit
+9804,delivered
+9805,in transit
+9806,in transit
+9807,in transit
+9808,delivered
+9809,in transit
+9810,in transit
+9811,in transit
+9812,in transit
+9813,delivered
+9814,delivered
+9815,delivered
+9816,delivered
+9817,delivered
+9818,delivered
+9819,in transit
+9820,delivered
+9821,delivered
+9822,delivered
+9823,delivered
+9824,delivered
+9825,delivered
+9826,delivered
+9827,in transit
+9828,delivered
+9829,delivered
+9830,in transit
+9831,in transit
+9832,in transit
+9833,in transit
+9834,in transit
+9835,in transit
+9836,delivered
+9837,in transit
+9838,in transit
+9839,in transit
+9840,delivered
+9841,in transit
+9842,delivered
+9843,in transit
+9844,in transit
+9845,in transit
+9846,delivered
+9847,in transit
+9848,delivered
+9849,in transit
+9850,in transit
+9851,delivered
+9852,delivered
+9853,delivered
+9854,in transit
+9855,delivered
+9856,in transit
+9857,in transit
+9858,delivered
+9859,in transit
+9860,delivered
+9861,delivered
+9862,delivered
+9863,in transit
+9864,delivered
+9865,in transit
+9866,in transit
+9867,in transit
+9868,in transit
+9869,in transit
+9870,in transit
+9871,delivered
+9872,delivered
+9873,in transit
+9874,in transit
+9875,delivered
+9876,in transit
+9877,delivered
+9878,in transit
+9879,delivered
+9880,delivered
+9881,delivered
+9882,in transit
+9883,in transit
+9884,in transit
+9885,delivered
+9886,in transit
+9887,delivered
+9888,delivered
+9889,delivered
+9890,delivered
+9891,in transit
+9892,delivered
+9893,in transit
+9894,delivered
+9895,in transit
+9896,in transit
+9897,in transit
+9898,delivered
+9899,delivered
+9900,delivered
+9901,delivered
+9902,delivered
+9903,in transit
+9904,delivered
+9905,in transit
+9906,delivered
+9907,in transit
+9908,delivered
+9909,delivered
+9910,delivered
+9911,delivered
+9912,delivered
+9913,in transit
+9914,in transit
+9915,delivered
+9916,in transit
+9917,in transit
+9918,delivered
+9919,delivered
+9920,delivered
+9921,delivered
+9922,delivered
+9923,delivered
+9924,delivered
+9925,delivered
+9926,in transit
+9927,in transit
+9928,in transit
+9929,delivered
+9930,delivered
+9931,delivered
+9932,delivered
+9933,in transit
+9934,in transit
+9935,delivered
+9936,delivered
+9937,in transit
+9938,in transit
+9939,in transit
+9940,delivered
+9941,in transit
+9942,in transit
+9943,in transit
+9944,in transit
+9945,delivered
+9946,in transit
+9947,delivered
+9948,delivered
+9949,delivered
+9950,delivered
+9951,in transit
+9952,delivered
+9953,in transit
+9954,in transit
+9955,in transit
+9956,in transit
+9957,in transit
+9958,delivered
+9959,in transit
+9960,in transit
+9961,in transit
+9962,in transit
+9963,in transit
+9964,in transit
+9965,delivered
+9966,in transit
+9967,in transit
+9968,delivered
+9969,delivered
+9970,in transit
+9971,delivered
+9972,in transit
+9973,in transit
+9974,in transit
+9975,delivered
+9976,in transit
+9977,delivered
+9978,in transit
+9979,in transit
+9980,delivered
+9981,delivered
+9982,in transit
+9983,delivered
+9984,delivered
+9985,delivered
+9986,delivered
+9987,in transit
+9988,delivered
+9989,in transit
+9990,delivered
+9991,in transit
+9992,delivered
+9993,delivered
+9994,in transit
+9995,in transit
+9996,in transit
+9997,delivered
+9998,in transit
