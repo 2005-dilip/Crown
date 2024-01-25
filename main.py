@@ -1,5 +1,6 @@
 import smtplib
 import random
+from warranty import *
 import datetime
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -22,8 +23,15 @@ async def handle_request(request: Request):
     output_contexts = payload['queryResult']['outputContexts']
 
     # Route the call to the appropriate intent handler function
+
     if intent == "track-order-ongoing-tracking":
         return handle_track_order(parameters)
+    elif intent == 'order-id':
+        return warranty_orderid(parameters)
+    elif intent == 'date':
+        return warranty_date(parameters)
+    elif intent=='email_warranty':
+        return warranty_email(parameters)
     elif intent == "order.add-ongoing-order":
         return handle_add_ongoing_order(parameters)
     elif intent == "more_options":
