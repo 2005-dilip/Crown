@@ -5,7 +5,6 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
-import db_helper
 from watch_list import watch_brands
 import pandas as pd
 from return_watches import *
@@ -70,9 +69,10 @@ def generate_random_timestamp():
     random_timestamp = current_time - datetime.timedelta(days=random_days, hours=random_hours, minutes=random_minutes)
     return random_timestamp.strftime("%Y-%m-%d %H:%M:%S")
 def handle_email(parameters):
+    df = pd.read_csv("orders.csv", index_col='order_id')
     order_id=order_id1[-1]
     email = parameters["email"]
-    order_status = db_helper.get_order_status(order_id)
+    order_status = df['status'][order_id]
     sender_email = "crownweb37@gmail.com"
     sender_password = "jcoo xafd uqdu pvzl"  # Generate an App Password for Gmail
     smtp_server = "smtp.gmail.com"
