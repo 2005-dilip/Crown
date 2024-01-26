@@ -33,7 +33,7 @@ def style(parameters):
     style1.append(style)
     fulfillment_message = " Are you looking for a women's, men's, or unisex watch?"
 
-    return JSONResponse(content={"fulfillmentText": f"{fulfillment_message}and {style}"})
+    return JSONResponse(content={"fulfillmentText": f"{fulfillment_message}"})
 #from
 def gender(parameters):
      gender= parameters['gender']
