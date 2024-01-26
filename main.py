@@ -9,6 +9,7 @@ from fastapi.responses import JSONResponse
 from watch_list import watch_brands
 import pandas as pd
 from return_watches import *
+from recommend import  *
 app = FastAPI()
 items = []
 order_id1=[]
@@ -26,6 +27,18 @@ async def handle_request(request: Request):
 
     if intent == "track-order-ongoing-tracking":
         return handle_track_order(parameters)
+    elif intent=='budget':
+        return budget(parameters)
+    elif intent=='style':
+        return style(parameters)
+    elif intent=='gender':
+        return  gender(parameters)
+    elif intent=='type':
+        return watch_type(parameters)
+    elif intent=='rating':
+        return rating(parameters)
+    elif intent=='material':
+        return  material(parameters)
     elif intent == 'order-id':
         return warranty_orderid(parameters)
     elif intent == 'date':
